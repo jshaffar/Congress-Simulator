@@ -3,7 +3,7 @@ import yaml
 CURRENT_SENATORS_FILE = "People/current_senators.txt"
 CURRENT_CONGRESSMEN_FILE = "People/current_congressmen.txt"
 
-with open(r'Submodules/congress-legislators/legislators-current.yaml') as file:
+with open(r'congress-legislators/legislators-current.yaml') as file:
     # The FullLoader parameter handles the conversion from YAML
     # scalar values to Python the dictionary format
     documents = yaml.full_load(file)
@@ -30,4 +30,6 @@ with open(r'Submodules/congress-legislators/legislators-current.yaml') as file:
 
     house_file.close()
     senate_file.close()
+
+    
   

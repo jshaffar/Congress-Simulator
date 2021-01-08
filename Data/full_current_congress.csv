@@ -1,0 +1,539 @@
+name,govtrack_id,gender,age
+Sherrod Brown,400050,M,4
+Maria Cantwell,300018,F,4
+Benjamin L. Cardin,400064,M,4
+Thomas R. Carper,300019,M,4
+"Robert P. Casey, Jr.",412246,M,4
+Dianne Feinstein,300043,F,4
+Amy Klobuchar,412242,F,4
+Robert Menendez,400272,M,4
+Bernard Sanders,400357,M,4
+Debbie Stabenow,300093,F,4
+Jon Tester,412244,M,4
+Sheldon Whitehouse,412247,M,4
+John Barrasso,412251,M,4
+Roger F. Wicker,400432,M,4
+Susan M. Collins,300025,F,4
+John Cornyn,300027,M,4
+Richard J. Durbin,300038,M,4
+Lindsey Graham,300047,M,4
+James M. Inhofe,300055,M,4
+Mitch McConnell,300072,M,4
+Jeff Merkley,412325,M,4
+Jack Reed,300081,M,4
+James E. Risch,412322,M,4
+Jeanne Shaheen,412323,F,4
+Mark R. Warner,412321,M,4
+Kirsten E. Gillibrand,412223,F,4
+Christopher A. Coons,412390,M,4
+"Joe Manchin, III",412391,M,4
+Robert B. Aderholt,400004,M,4
+Tammy Baldwin,400013,F,4
+Karen Bass,412404,F,4
+Michael F. Bennet,412330,M,4
+Gus M. Bilirakis,412250,M,4
+"Sanford D. Bishop, Jr.",400030,M,4
+Marsha Blackburn,400032,F,4
+Earl Blumenauer,400033,M,4
+Richard Blumenthal,412490,M,4
+Roy Blunt,400034,M,4
+John Boozman,400040,M,4
+Kevin Brady,400046,M,4
+Mo Brooks,412395,M,4
+Vern Buchanan,412196,M,4
+Larry Bucshon,412427,M,4
+Michael C. Burgess,400052,M,4
+Richard Burr,400054,M,4
+G. K. Butterfield,400616,M,4
+Ken Calvert,400057,M,4
+Shelley Moore Capito,400061,F,4
+André Carson,412258,M,4
+John R. Carter,400068,M,4
+Bill Cassidy,412269,M,4
+Kathy Castor,412195,F,4
+Steve Chabot,400071,M,4
+Judy Chu,412379,F,4
+David N. Cicilline,412470,M,4
+Yvette D. Clarke,412221,F,4
+Emanuel Cleaver,400639,M,4
+James E. Clyburn,400075,M,4
+Steve Cohen,412236,M,4
+Tom Cole,400077,M,4
+Gerald E. Connolly,412272,M,4
+Jim Cooper,400081,M,4
+Jim Costa,400618,M,4
+Joe Courtney,412193,M,4
+Mike Crapo,300030,M,4
+Eric A. Rick Crawford,412400,M,4
+Henry Cuellar,400657,M,4
+Danny K. Davis,400093,M,4
+Peter A. DeFazio,400100,M,4
+Diana DeGette,400101,F,4
+Rosa L. DeLauro,400103,F,4
+Scott DesJarlais,412477,M,4
+Theodore E. Deutch,412385,M,4
+Mario Diaz-Balart,400108,M,4
+Lloyd Doggett,400111,M,4
+Michael F. Doyle,400114,M,4
+Jeff Duncan,412472,M,4
+Anna G. Eshoo,400124,F,4
+Charles J. Chuck Fleischmann,412476,M,4
+Jeff Fortenberry,400640,M,4
+Virginia Foxx,400643,F,4
+Marcia L. Fudge,412327,F,4
+John Garamendi,412382,M,4
+Bob Gibbs,412463,M,4
+Louie Gohmert,400651,M,4
+Paul A. Gosar,412397,M,4
+Kay Granger,400157,F,4
+Chuck Grassley,300048,M,4
+Sam Graves,400158,M,4
+Al Green,400653,M,4
+H. Morgan Griffith,412485,M,4
+Raúl M. Grijalva,400162,M,4
+Brett Guthrie,412278,M,4
+Andy Harris,412434,M,4
+Vicky Hartzler,412444,F,4
+Alcee L. Hastings,400170,M,4
+Martin Heinrich,412281,M,4
+Jaime Herrera Beutler,412486,F,4
+Brian Higgins,400641,M,4
+James A. Himes,412282,M,4
+Mazie K. Hirono,412200,F,4
+John Hoeven,412494,M,4
+Steny H. Hoyer,400189,M,4
+Bill Huizenga,412437,M,4
+Sheila Jackson Lee,400199,F,4
+Bill Johnson,412460,M,4
+Eddie Bernice Johnson,400204,F,4
+"Henry C. Hank Johnson, Jr.",412199,M,4
+Ron Johnson,412496,M,4
+Jim Jordan,412226,M,4
+Marcy Kaptur,400211,F,4
+William R. Keating,412435,M,4
+Mike Kelly,412465,M,4
+Ron Kind,400218,M,4
+Adam Kinzinger,412421,M,4
+Doug Lamborn,412191,M,4
+James R. Langevin,400230,M,4
+James Lankford,412464,M,4
+Rick Larsen,400232,M,4
+John B. Larson,400233,M,4
+Robert E. Latta,412256,M,4
+Patrick J. Leahy,300065,M,4
+Barbara Lee,400237,F,4
+Mike Lee,412495,M,4
+Zoe Lofgren,400245,F,4
+Billy Long,412445,M,4
+Frank D. Lucas,400247,M,4
+Blaine Luetkemeyer,412292,M,4
+Ben Ray Luján,412293,M,4
+Stephen F. Lynch,400249,M,4
+Carolyn B. Maloney,400251,F,4
+Edward J. Markey,400253,M,4
+Doris O. Matsui,400663,F,4
+Kevin McCarthy,412190,M,4
+Michael T. McCaul,400654,M,4
+Tom McClintock,412295,M,4
+Betty McCollum,400259,F,4
+James P. McGovern,400263,M,4
+Patrick T. McHenry,400644,M,4
+David B. McKinley,412487,M,4
+Cathy McMorris Rodgers,400659,F,4
+Jerry McNerney,412189,M,4
+Gregory W. Meeks,400271,M,4
+Gwen Moore,400661,F,4
+Jerry Moran,400284,M,4
+Lisa Murkowski,300075,F,4
+Christopher Murphy,412194,M,4
+Patty Murray,300076,F,4
+Jerrold Nadler,400289,M,4
+Grace F. Napolitano,400290,F,4
+Richard E. Neal,400291,M,4
+Eleanor Holmes Norton,400295,F,4
+Devin Nunes,400297,M,4
+Steven M. Palazzo,412443,M,4
+"Frank Pallone, Jr.",400308,M,4
+"Bill Pascrell, Jr.",400309,M,4
+Rand Paul,412492,M,4
+Nancy Pelosi,400314,F,4
+Ed Perlmutter,412192,M,4
+Gary C. Peters,412305,M,4
+Chellie Pingree,412307,F,4
+Rob Portman,400325,M,4
+Bill Posey,412309,M,4
+David E. Price,400326,M,4
+Mike Quigley,412331,M,4
+Tom Reed,412393,M,4
+Cedric L. Richmond,412432,M,4
+Harold Rogers,400340,M,4
+Mike Rogers,400341,M,4
+Lucille Roybal-Allard,400347,F,4
+Marco Rubio,412491,M,4
+C. A. Dutch Ruppersberger,400349,M,4
+Bobby L. Rush,400350,M,4
+Tim Ryan,400352,M,4
+Gregorio Kilili Camacho Sablan,412312,M,4
+John P. Sarbanes,412212,M,4
+Steve Scalise,412261,M,4
+Janice D. Schakowsky,400360,F,4
+Adam B. Schiff,400361,M,4
+Kurt Schrader,412315,M,4
+Charles E. Schumer,300087,M,4
+David Schweikert,412399,M,4
+Austin Scott,412417,M,4
+David Scott,400363,M,4
+Robert C. Bobby Scott,400364,M,4
+Tim Scott,412471,M,4
+Terri A. Sewell,412396,F,4
+Richard C. Shelby,300089,M,4
+Brad Sherman,400371,M,4
+Michael K. Simpson,400376,M,4
+Albio Sires,412186,M,4
+Adam Smith,400379,M,4
+Adrian Smith,412217,M,4
+Christopher H. Smith,400380,M,4
+Jackie Speier,412259,F,4
+Steve Stivers,412461,M,4
+Linda T. Sánchez,400355,F,4
+Bennie G. Thompson,400402,M,4
+Mike Thompson,400403,M,4
+Glenn Thompson,412317,M,4
+John Thune,400546,M,4
+Paul Tonko,412319,M,4
+Patrick J. Toomey,400408,M,4
+Michael R. Turner,400411,M,4
+Fred Upton,400414,M,4
+Chris Van Hollen,400415,M,4
+Nydia M. Velázquez,400416,F,4
+Tim Walberg,412213,M,4
+Debbie Wasserman Schultz,400623,F,4
+Maxine Waters,400422,F,4
+Daniel Webster,412410,M,4
+Peter Welch,412239,M,4
+Joe Wilson,400433,M,4
+Frederica S. Wilson,412412,F,4
+Robert J. Wittman,412255,M,4
+Steve Womack,412402,M,4
+Ron Wyden,300100,M,4
+John A. Yarmuth,412211,M,4
+Don Young,400440,M,4
+Todd Young,412428,M,4
+Mark E. Amodei,412500,M,4
+Suzanne Bonamici,412501,F,4
+Suzan K. DelBene,412505,F,4
+Thomas Massie,412503,M,4
+"Donald M. Payne, Jr.",412506,M,4
+Brian Schatz,412507,M,4
+Bill Foster,412257,M,4
+Dina Titus,412318,F,4
+Tom Cotton,412508,M,4
+Kyrsten Sinema,412509,F,4
+Doug LaMalfa,412510,M,4
+Jared Huffman,412511,M,4
+Ami Bera,412512,M,4
+Eric Swalwell,412514,M,4
+Julia Brownley,412516,F,4
+Tony Cárdenas,412517,M,4
+Raul Ruiz,412519,M,4
+Mark Takano,412520,M,4
+Alan S. Lowenthal,412521,M,4
+Juan Vargas,412522,M,4
+Scott H. Peters,412523,M,4
+Lois Frankel,412529,F,4
+Tammy Duckworth,412533,F,4
+Rodney Davis,412536,M,4
+Cheri Bustos,412537,F,4
+Jackie Walorski,412538,F,4
+Andy Barr,412541,M,4
+Elizabeth Warren,412542,F,4
+"Angus S. King, Jr.",412545,M,4
+Daniel T. Kildee,412546,M,4
+Ann Wagner,412548,F,4
+Steve Daines,412549,M,4
+Richard Hudson,412550,M,4
+Kevin Cramer,412555,M,4
+Deb Fischer,412556,F,4
+Ann M. Kuster,412557,F,4
+Grace Meng,412560,F,4
+Hakeem S. Jeffries,412561,M,4
+Sean Patrick Maloney,412562,M,4
+Brad R. Wenstrup,412564,M,4
+Joyce Beatty,412565,F,4
+David P. Joyce,412566,M,4
+Markwayne Mullin,412568,M,4
+Scott Perry,412569,M,4
+Matt Cartwright,412571,M,4
+Tom Rice,412572,M,4
+Ted Cruz,412573,M,4
+"Randy K. Weber, Sr.",412574,M,4
+Joaquin Castro,412576,M,4
+Roger Williams,412578,M,4
+Marc A. Veasey,412579,M,4
+Filemon Vela,412580,M,4
+Chris Stewart,412581,M,4
+Tim Kaine,412582,M,4
+Derek Kilmer,412583,M,4
+Mark Pocan,412585,M,4
+Robin L. Kelly,412595,F,4
+Jason Smith,412596,M,4
+Cory A. Booker,412598,M,4
+Katherine M. Clark,412600,F,4
+Donald Norcross,412606,M,4
+Alma S. Adams,412607,F,4
+Gary J. Palmer,412608,M,4
+J. French Hill,412609,M,4
+Bruce Westerman,412610,M,4
+Ruben Gallego,412612,M,4
+Mark DeSaulnier,412613,M,4
+Pete Aguilar,412615,M,4
+Ted Lieu,412616,M,4
+Norma J. Torres,412617,F,4
+Ken Buck,412619,M,4
+Earl L. Buddy Carter,412622,M,4
+Jody B. Hice,412623,M,4
+Barry Loudermilk,412624,M,4
+Rick W. Allen,412625,M,4
+Mike Bost,412629,M,4
+Garret Graves,412631,M,4
+Seth Moulton,412632,M,4
+John R. Moolenaar,412634,M,4
+Debbie Dingell,412637,F,4
+Brenda L. Lawrence,412638,F,4
+Tom Emmer,412639,M,4
+David Rouzer,412641,M,4
+Bonnie Watson Coleman,412644,F,4
+Lee M. Zeldin,412646,M,4
+Kathleen M. Rice,412647,F,4
+Elise M. Stefanik,412648,F,4
+John Katko,412649,M,4
+Brendan F. Boyle,412652,M,4
+Brian Babin,412655,M,4
+"Donald S. Beyer, Jr.",412657,M,4
+Stacey E. Plaskett,412659,F,4
+Dan Newhouse,412660,M,4
+Glenn Grothman,412661,M,4
+Alexander X. Mooney,412662,M,4
+Aumua Amata Coleman Radewagen,412664,F,4
+Dan Sullivan,412665,M,4
+Joni Ernst,412667,F,4
+Thom Tillis,412668,M,4
+Mike Rounds,412669,M,4
+Ben Sasse,412671,M,4
+Trent Kelly,412673,M,4
+Darin LaHood,412674,M,4
+Warren Davidson,412675,M,4
+James Comer,412676,M,4
+Dwight Evans,412677,M,4
+Kamala D. Harris,412678,F,4
+John Kennedy,412679,M,4
+Margaret Wood Hassan,412680,F,4
+Catherine Cortez Masto,412681,F,4
+Bradley Scott Schneider,412534,M,4
+Tom O’Halleran,412682,M,4
+Andy Biggs,412683,M,4
+Ro Khanna,412684,M,4
+Jimmy Panetta,412685,M,4
+Salud O. Carbajal,412686,M,4
+Nanette Diaz Barragán,412687,F,4
+J. Luis Correa,412688,M,4
+Lisa Blunt Rochester,412689,F,4
+Matt Gaetz,412690,M,4
+Neal P. Dunn,412691,M,4
+John H. Rutherford,412692,M,4
+"Al Lawson, Jr.",412693,M,4
+Stephanie N. Murphy,412694,F,4
+Darren Soto,412695,M,4
+Val Butler Demings,412696,F,4
+Charlie Crist,412697,M,4
+Brian J. Mast,412698,M,4
+A. Drew Ferguson IV,412700,M,4
+Raja Krishnamoorthi,412701,M,4
+Jim Banks,412702,M,4
+Trey Hollingsworth,412703,M,4
+Roger W. Marshall,412704,M,4
+Clay Higgins,412705,M,4
+Mike Johnson,412706,M,4
+Anthony G. Brown,412707,M,4
+Jamie Raskin,412708,M,4
+Jack Bergman,412709,M,4
+Ted Budd,412712,M,4
+Don Bacon,412713,M,4
+Josh Gottheimer,412714,M,4
+Jacky Rosen,412715,F,4
+Thomas R. Suozzi,412717,M,4
+Adriano Espaillat,412718,M,4
+Brian K. Fitzpatrick,412721,M,4
+Lloyd Smucker,412722,M,4
+Jenniffer González-Colón,412723,F,4
+David Kustoff,412724,M,4
+Vicente Gonzalez,412725,M,4
+Jodey C. Arrington,412726,M,4
+A. Donald McEachin,412728,M,4
+Pramila Jayapal,412730,F,4
+Mike Gallagher,412731,M,4
+Liz Cheney,412732,F,4
+Ron Estes,412735,M,4
+Ralph Norman,412738,M,4
+Jimmy Gomez,412739,M,4
+John R. Curtis,412740,M,4
+Tina Smith,412742,F,4
+Cindy Hyde-Smith,412743,F,4
+Conor Lamb,412744,M,4
+Debbie Lesko,412745,F,4
+Michael Cloud,412746,M,4
+Troy Balderson,412747,M,4
+Kevin Hern,412748,M,4
+Joseph D. Morelle,412749,M,4
+Mary Gay Scanlon,412750,F,4
+Susan Wild,412751,F,4
+Ed Case,400069,M,4
+Steven Horsford,412559,M,4
+Ann Kirkpatrick,412286,F,4
+Greg Stanton,412753,M,4
+Josh Harder,412754,M,4
+Katie Porter,412758,F,4
+Mike Levin,412760,M,4
+Joe Neguse,412761,M,4
+Jason Crow,412762,M,4
+Jahana Hayes,412763,F,4
+Michael Waltz,412764,M,4
+W. Gregory Steube,412766,M,4
+Lucy McBath,412769,F,4
+Michael F. Q. San Nicolas,412770,M,4
+Cynthia Axne,412772,F,4
+Russ Fulcher,412773,M,4
+Jesús G. Chuy García,412774,M,4
+Sean Casten,412775,M,4
+Lauren Underwood,412776,F,4
+James R. Baird,412777,M,4
+Greg Pence,412778,M,4
+Sharice Davids,412780,F,4
+Lori Trahan,412781,F,4
+Ayanna Pressley,412782,F,4
+David J. Trone,412783,M,4
+Elissa Slotkin,412784,F,4
+Andy Levin,412785,M,4
+Haley M. Stevens,412786,F,4
+Rashida Tlaib,412787,F,4
+Jim Hagedorn,412788,M,4
+Angie Craig,412789,F,4
+Dean Phillips,412790,M,4
+Ilhan Omar,412791,F,4
+Pete Stauber,412792,M,4
+Michael Guest,412793,M,4
+Kelly Armstrong,412794,M,4
+Chris Pappas,412795,M,4
+Jefferson Van Drew,412796,M,4
+Andy Kim,412797,M,4
+Tom Malinowski,412798,M,4
+Mikie Sherrill,412799,F,4
+Debra A. Haaland,412800,F,4
+Susie Lee,412802,F,4
+Alexandria Ocasio-Cortez,412804,F,4
+Antonio Delgado,412805,M,4
+Anthony Gonzalez,412807,M,4
+Madeleine Dean,412809,F,4
+Chrissy Houlahan,412810,F,4
+Daniel Meuser,412811,M,4
+John Joyce,412812,M,4
+Guy Reschenthaler,412813,M,4
+William R. Timmons IV,412815,M,4
+Dusty Johnson,412816,M,4
+Tim Burchett,412817,M,4
+John W. Rose,412818,M,4
+Mark E. Green,412819,M,4
+Dan Crenshaw,412820,M,4
+Van Taylor,412821,M,4
+Lance Gooden,412822,M,4
+Ron Wright,412823,M,4
+Lizzie Fletcher,412824,F,4
+Veronica Escobar,412825,F,4
+Chip Roy,412826,M,4
+Sylvia R. Garcia,412827,F,4
+Colin Z. Allred,412828,M,4
+Elaine G. Luria,412830,F,4
+Ben Cline,412832,M,4
+Abigail Davis Spanberger,412833,F,4
+Jennifer Wexton,412834,F,4
+Kim Schrier,412835,F,4
+Bryan Steil,412836,M,4
+Carol D. Miller,412837,F,4
+Rick Scott,412838,M,4
+Mike Braun,412839,M,4
+Josh Hawley,412840,M,4
+Mitt Romney,412841,M,4
+Jared F. Golden,412842,M,4
+Fred Keller,412843,M,4
+Dan Bishop,412844,M,4
+Gregory F. Murphy,412845,M,4
+Kelly Loeffler,456790,F,4
+Kweisi Mfume,407672,M,4
+Thomas P. Tiffany,456791,M,4
+Mike Garcia,456792,M,4
+Chris Jacobs,456793,M,4
+Mark Kelly,456794,M,4
+Cynthia M. Lummis,412294,F,4
+Darrell E. Issa,400196,M,4
+Pete Sessions,400367,M,4
+David G. Valadao,412515,M,4
+Tommy Tuberville,456796,M,4
+John W. Hickenlooper,456797,M,4
+Bill Hagerty,456798,M,4
+Jerry Lee Carl Jr.,456799,M,4
+Felix Barry Moore,456800,M,4
+Jay Phillip Obernolte,456801,M,4
+Young Oak Kim,456802,F,4
+Michelle Eunjoo Steel,456803,F,4
+Sara Jacobs,456804,F,4
+Lauren Opal Boebert,456805,F,4
+Katherine Cammack,456806,F,4
+Scott Franklin,456807,M,4
+Byron Lowell Donalds,456808,M,4
+Carlos A. Giménez,456809,M,4
+Maria Elvira Salazar,456810,M,4
+Nikema Natassha Williams,456811,F,4
+Carolyn Bourdeaux,456812,F,4
+Andrew Clyde,456813,M,4
+Marjorie Taylor Greene,456814,F,4
+Kaialiʻi Kahele,456815,M,4
+Ashley Hinson,456816,F,4
+Mariannette Jane Miller-Meeks,456817,F,4
+Randy L. Feenstra,456818,M,4
+Marie Newman,456819,F,4
+Mary Miller,456820,F,4
+Frank John Mrvan,456821,M,4
+Victoria Spartz,456822,F,4
+Tracey Robert Mann,456823,M,4
+Jacob LaTurner,456824,M,4
+Jake Daniel Auchincloss,456825,M,4
+Peter James Meijer,456826,M,4
+Lisa McClain,456827,F,4
+Michelle Louise Helene Fischbach,456828,F,4
+Cori Bush,456829,F,4
+Matthew Martin Rosendale Sr.,456830,M,4
+Deborah Koff Ross,456831,F,4
+Kathy Ellen Manning,456832,F,4
+David Madison Cawthorn,456833,M,4
+Stella Yvette Herrell,456834,F,4
+Teresa Leger Fernandez,456835,F,4
+Andrew Garbarino,456836,M,4
+Nicole Malliotakis,456837,F,4
+Ritchie John Torres,456838,M,4
+Jamaal Bowman,456839,M,4
+Mondaire Jones,456840,M,4
+Stephanie Bice,456841,F,4
+Cliff Stewart Bentz,456842,M,4
+Nancy Ruth Mace,456843,F,4
+Diana Harshbarger,456844,F,4
+Patrick Edward Fallon,456845,M,4
+August Lee Pfluger II,456846,M,4
+Ronny Lynn Jackson,456847,M,4
+Troy E. Nehls,456848,M,4
+Ernest Anthony Gonzales II,456849,M,4
+Beth Ann Van Duyne,456850,F,4
+Blake David Moore,456851,M,4
+Clarence Burgess Owens,456852,M,4
+Robert G. Good,456853,M,4
+Marilyn Strickland,456854,F,4
+Scott L. Fitzgerald,456855,M,4
