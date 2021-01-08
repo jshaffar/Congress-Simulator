@@ -1,539 +1,539 @@
-name,govtrack_id,gender,age
-Sherrod Brown,400050,M,4
-Maria Cantwell,300018,F,4
-Benjamin L. Cardin,400064,M,4
-Thomas R. Carper,300019,M,4
-"Robert P. Casey, Jr.",412246,M,4
-Dianne Feinstein,300043,F,4
-Amy Klobuchar,412242,F,4
-Robert Menendez,400272,M,4
-Bernard Sanders,400357,M,4
-Debbie Stabenow,300093,F,4
-Jon Tester,412244,M,4
-Sheldon Whitehouse,412247,M,4
-John Barrasso,412251,M,4
-Roger F. Wicker,400432,M,4
-Susan M. Collins,300025,F,4
-John Cornyn,300027,M,4
-Richard J. Durbin,300038,M,4
-Lindsey Graham,300047,M,4
-James M. Inhofe,300055,M,4
-Mitch McConnell,300072,M,4
-Jeff Merkley,412325,M,4
-Jack Reed,300081,M,4
-James E. Risch,412322,M,4
-Jeanne Shaheen,412323,F,4
-Mark R. Warner,412321,M,4
-Kirsten E. Gillibrand,412223,F,4
-Christopher A. Coons,412390,M,4
-"Joe Manchin, III",412391,M,4
-Robert B. Aderholt,400004,M,4
-Tammy Baldwin,400013,F,4
-Karen Bass,412404,F,4
-Michael F. Bennet,412330,M,4
-Gus M. Bilirakis,412250,M,4
-"Sanford D. Bishop, Jr.",400030,M,4
-Marsha Blackburn,400032,F,4
-Earl Blumenauer,400033,M,4
-Richard Blumenthal,412490,M,4
-Roy Blunt,400034,M,4
-John Boozman,400040,M,4
-Kevin Brady,400046,M,4
-Mo Brooks,412395,M,4
-Vern Buchanan,412196,M,4
-Larry Bucshon,412427,M,4
-Michael C. Burgess,400052,M,4
-Richard Burr,400054,M,4
-G. K. Butterfield,400616,M,4
-Ken Calvert,400057,M,4
-Shelley Moore Capito,400061,F,4
-André Carson,412258,M,4
-John R. Carter,400068,M,4
-Bill Cassidy,412269,M,4
-Kathy Castor,412195,F,4
-Steve Chabot,400071,M,4
-Judy Chu,412379,F,4
-David N. Cicilline,412470,M,4
-Yvette D. Clarke,412221,F,4
-Emanuel Cleaver,400639,M,4
-James E. Clyburn,400075,M,4
-Steve Cohen,412236,M,4
-Tom Cole,400077,M,4
-Gerald E. Connolly,412272,M,4
-Jim Cooper,400081,M,4
-Jim Costa,400618,M,4
-Joe Courtney,412193,M,4
-Mike Crapo,300030,M,4
-Eric A. Rick Crawford,412400,M,4
-Henry Cuellar,400657,M,4
-Danny K. Davis,400093,M,4
-Peter A. DeFazio,400100,M,4
-Diana DeGette,400101,F,4
-Rosa L. DeLauro,400103,F,4
-Scott DesJarlais,412477,M,4
-Theodore E. Deutch,412385,M,4
-Mario Diaz-Balart,400108,M,4
-Lloyd Doggett,400111,M,4
-Michael F. Doyle,400114,M,4
-Jeff Duncan,412472,M,4
-Anna G. Eshoo,400124,F,4
-Charles J. Chuck Fleischmann,412476,M,4
-Jeff Fortenberry,400640,M,4
-Virginia Foxx,400643,F,4
-Marcia L. Fudge,412327,F,4
-John Garamendi,412382,M,4
-Bob Gibbs,412463,M,4
-Louie Gohmert,400651,M,4
-Paul A. Gosar,412397,M,4
-Kay Granger,400157,F,4
-Chuck Grassley,300048,M,4
-Sam Graves,400158,M,4
-Al Green,400653,M,4
-H. Morgan Griffith,412485,M,4
-Raúl M. Grijalva,400162,M,4
-Brett Guthrie,412278,M,4
-Andy Harris,412434,M,4
-Vicky Hartzler,412444,F,4
-Alcee L. Hastings,400170,M,4
-Martin Heinrich,412281,M,4
-Jaime Herrera Beutler,412486,F,4
-Brian Higgins,400641,M,4
-James A. Himes,412282,M,4
-Mazie K. Hirono,412200,F,4
-John Hoeven,412494,M,4
-Steny H. Hoyer,400189,M,4
-Bill Huizenga,412437,M,4
-Sheila Jackson Lee,400199,F,4
-Bill Johnson,412460,M,4
-Eddie Bernice Johnson,400204,F,4
-"Henry C. Hank Johnson, Jr.",412199,M,4
-Ron Johnson,412496,M,4
-Jim Jordan,412226,M,4
-Marcy Kaptur,400211,F,4
-William R. Keating,412435,M,4
-Mike Kelly,412465,M,4
-Ron Kind,400218,M,4
-Adam Kinzinger,412421,M,4
-Doug Lamborn,412191,M,4
-James R. Langevin,400230,M,4
-James Lankford,412464,M,4
-Rick Larsen,400232,M,4
-John B. Larson,400233,M,4
-Robert E. Latta,412256,M,4
-Patrick J. Leahy,300065,M,4
-Barbara Lee,400237,F,4
-Mike Lee,412495,M,4
-Zoe Lofgren,400245,F,4
-Billy Long,412445,M,4
-Frank D. Lucas,400247,M,4
-Blaine Luetkemeyer,412292,M,4
-Ben Ray Luján,412293,M,4
-Stephen F. Lynch,400249,M,4
-Carolyn B. Maloney,400251,F,4
-Edward J. Markey,400253,M,4
-Doris O. Matsui,400663,F,4
-Kevin McCarthy,412190,M,4
-Michael T. McCaul,400654,M,4
-Tom McClintock,412295,M,4
-Betty McCollum,400259,F,4
-James P. McGovern,400263,M,4
-Patrick T. McHenry,400644,M,4
-David B. McKinley,412487,M,4
-Cathy McMorris Rodgers,400659,F,4
-Jerry McNerney,412189,M,4
-Gregory W. Meeks,400271,M,4
-Gwen Moore,400661,F,4
-Jerry Moran,400284,M,4
-Lisa Murkowski,300075,F,4
-Christopher Murphy,412194,M,4
-Patty Murray,300076,F,4
-Jerrold Nadler,400289,M,4
-Grace F. Napolitano,400290,F,4
-Richard E. Neal,400291,M,4
-Eleanor Holmes Norton,400295,F,4
-Devin Nunes,400297,M,4
-Steven M. Palazzo,412443,M,4
-"Frank Pallone, Jr.",400308,M,4
-"Bill Pascrell, Jr.",400309,M,4
-Rand Paul,412492,M,4
-Nancy Pelosi,400314,F,4
-Ed Perlmutter,412192,M,4
-Gary C. Peters,412305,M,4
-Chellie Pingree,412307,F,4
-Rob Portman,400325,M,4
-Bill Posey,412309,M,4
-David E. Price,400326,M,4
-Mike Quigley,412331,M,4
-Tom Reed,412393,M,4
-Cedric L. Richmond,412432,M,4
-Harold Rogers,400340,M,4
-Mike Rogers,400341,M,4
-Lucille Roybal-Allard,400347,F,4
-Marco Rubio,412491,M,4
-C. A. Dutch Ruppersberger,400349,M,4
-Bobby L. Rush,400350,M,4
-Tim Ryan,400352,M,4
-Gregorio Kilili Camacho Sablan,412312,M,4
-John P. Sarbanes,412212,M,4
-Steve Scalise,412261,M,4
-Janice D. Schakowsky,400360,F,4
-Adam B. Schiff,400361,M,4
-Kurt Schrader,412315,M,4
-Charles E. Schumer,300087,M,4
-David Schweikert,412399,M,4
-Austin Scott,412417,M,4
-David Scott,400363,M,4
-Robert C. Bobby Scott,400364,M,4
-Tim Scott,412471,M,4
-Terri A. Sewell,412396,F,4
-Richard C. Shelby,300089,M,4
-Brad Sherman,400371,M,4
-Michael K. Simpson,400376,M,4
-Albio Sires,412186,M,4
-Adam Smith,400379,M,4
-Adrian Smith,412217,M,4
-Christopher H. Smith,400380,M,4
-Jackie Speier,412259,F,4
-Steve Stivers,412461,M,4
-Linda T. Sánchez,400355,F,4
-Bennie G. Thompson,400402,M,4
-Mike Thompson,400403,M,4
-Glenn Thompson,412317,M,4
-John Thune,400546,M,4
-Paul Tonko,412319,M,4
-Patrick J. Toomey,400408,M,4
-Michael R. Turner,400411,M,4
-Fred Upton,400414,M,4
-Chris Van Hollen,400415,M,4
-Nydia M. Velázquez,400416,F,4
-Tim Walberg,412213,M,4
-Debbie Wasserman Schultz,400623,F,4
-Maxine Waters,400422,F,4
-Daniel Webster,412410,M,4
-Peter Welch,412239,M,4
-Joe Wilson,400433,M,4
-Frederica S. Wilson,412412,F,4
-Robert J. Wittman,412255,M,4
-Steve Womack,412402,M,4
-Ron Wyden,300100,M,4
-John A. Yarmuth,412211,M,4
-Don Young,400440,M,4
-Todd Young,412428,M,4
-Mark E. Amodei,412500,M,4
-Suzanne Bonamici,412501,F,4
-Suzan K. DelBene,412505,F,4
-Thomas Massie,412503,M,4
-"Donald M. Payne, Jr.",412506,M,4
-Brian Schatz,412507,M,4
-Bill Foster,412257,M,4
-Dina Titus,412318,F,4
-Tom Cotton,412508,M,4
-Kyrsten Sinema,412509,F,4
-Doug LaMalfa,412510,M,4
-Jared Huffman,412511,M,4
-Ami Bera,412512,M,4
-Eric Swalwell,412514,M,4
-Julia Brownley,412516,F,4
-Tony Cárdenas,412517,M,4
-Raul Ruiz,412519,M,4
-Mark Takano,412520,M,4
-Alan S. Lowenthal,412521,M,4
-Juan Vargas,412522,M,4
-Scott H. Peters,412523,M,4
-Lois Frankel,412529,F,4
-Tammy Duckworth,412533,F,4
-Rodney Davis,412536,M,4
-Cheri Bustos,412537,F,4
-Jackie Walorski,412538,F,4
-Andy Barr,412541,M,4
-Elizabeth Warren,412542,F,4
-"Angus S. King, Jr.",412545,M,4
-Daniel T. Kildee,412546,M,4
-Ann Wagner,412548,F,4
-Steve Daines,412549,M,4
-Richard Hudson,412550,M,4
-Kevin Cramer,412555,M,4
-Deb Fischer,412556,F,4
-Ann M. Kuster,412557,F,4
-Grace Meng,412560,F,4
-Hakeem S. Jeffries,412561,M,4
-Sean Patrick Maloney,412562,M,4
-Brad R. Wenstrup,412564,M,4
-Joyce Beatty,412565,F,4
-David P. Joyce,412566,M,4
-Markwayne Mullin,412568,M,4
-Scott Perry,412569,M,4
-Matt Cartwright,412571,M,4
-Tom Rice,412572,M,4
-Ted Cruz,412573,M,4
-"Randy K. Weber, Sr.",412574,M,4
-Joaquin Castro,412576,M,4
-Roger Williams,412578,M,4
-Marc A. Veasey,412579,M,4
-Filemon Vela,412580,M,4
-Chris Stewart,412581,M,4
-Tim Kaine,412582,M,4
-Derek Kilmer,412583,M,4
-Mark Pocan,412585,M,4
-Robin L. Kelly,412595,F,4
-Jason Smith,412596,M,4
-Cory A. Booker,412598,M,4
-Katherine M. Clark,412600,F,4
-Donald Norcross,412606,M,4
-Alma S. Adams,412607,F,4
-Gary J. Palmer,412608,M,4
-J. French Hill,412609,M,4
-Bruce Westerman,412610,M,4
-Ruben Gallego,412612,M,4
-Mark DeSaulnier,412613,M,4
-Pete Aguilar,412615,M,4
-Ted Lieu,412616,M,4
-Norma J. Torres,412617,F,4
-Ken Buck,412619,M,4
-Earl L. Buddy Carter,412622,M,4
-Jody B. Hice,412623,M,4
-Barry Loudermilk,412624,M,4
-Rick W. Allen,412625,M,4
-Mike Bost,412629,M,4
-Garret Graves,412631,M,4
-Seth Moulton,412632,M,4
-John R. Moolenaar,412634,M,4
-Debbie Dingell,412637,F,4
-Brenda L. Lawrence,412638,F,4
-Tom Emmer,412639,M,4
-David Rouzer,412641,M,4
-Bonnie Watson Coleman,412644,F,4
-Lee M. Zeldin,412646,M,4
-Kathleen M. Rice,412647,F,4
-Elise M. Stefanik,412648,F,4
-John Katko,412649,M,4
-Brendan F. Boyle,412652,M,4
-Brian Babin,412655,M,4
-"Donald S. Beyer, Jr.",412657,M,4
-Stacey E. Plaskett,412659,F,4
-Dan Newhouse,412660,M,4
-Glenn Grothman,412661,M,4
-Alexander X. Mooney,412662,M,4
-Aumua Amata Coleman Radewagen,412664,F,4
-Dan Sullivan,412665,M,4
-Joni Ernst,412667,F,4
-Thom Tillis,412668,M,4
-Mike Rounds,412669,M,4
-Ben Sasse,412671,M,4
-Trent Kelly,412673,M,4
-Darin LaHood,412674,M,4
-Warren Davidson,412675,M,4
-James Comer,412676,M,4
-Dwight Evans,412677,M,4
-Kamala D. Harris,412678,F,4
-John Kennedy,412679,M,4
-Margaret Wood Hassan,412680,F,4
-Catherine Cortez Masto,412681,F,4
-Bradley Scott Schneider,412534,M,4
-Tom O’Halleran,412682,M,4
-Andy Biggs,412683,M,4
-Ro Khanna,412684,M,4
-Jimmy Panetta,412685,M,4
-Salud O. Carbajal,412686,M,4
-Nanette Diaz Barragán,412687,F,4
-J. Luis Correa,412688,M,4
-Lisa Blunt Rochester,412689,F,4
-Matt Gaetz,412690,M,4
-Neal P. Dunn,412691,M,4
-John H. Rutherford,412692,M,4
-"Al Lawson, Jr.",412693,M,4
-Stephanie N. Murphy,412694,F,4
-Darren Soto,412695,M,4
-Val Butler Demings,412696,F,4
-Charlie Crist,412697,M,4
-Brian J. Mast,412698,M,4
-A. Drew Ferguson IV,412700,M,4
-Raja Krishnamoorthi,412701,M,4
-Jim Banks,412702,M,4
-Trey Hollingsworth,412703,M,4
-Roger W. Marshall,412704,M,4
-Clay Higgins,412705,M,4
-Mike Johnson,412706,M,4
-Anthony G. Brown,412707,M,4
-Jamie Raskin,412708,M,4
-Jack Bergman,412709,M,4
-Ted Budd,412712,M,4
-Don Bacon,412713,M,4
-Josh Gottheimer,412714,M,4
-Jacky Rosen,412715,F,4
-Thomas R. Suozzi,412717,M,4
-Adriano Espaillat,412718,M,4
-Brian K. Fitzpatrick,412721,M,4
-Lloyd Smucker,412722,M,4
-Jenniffer González-Colón,412723,F,4
-David Kustoff,412724,M,4
-Vicente Gonzalez,412725,M,4
-Jodey C. Arrington,412726,M,4
-A. Donald McEachin,412728,M,4
-Pramila Jayapal,412730,F,4
-Mike Gallagher,412731,M,4
-Liz Cheney,412732,F,4
-Ron Estes,412735,M,4
-Ralph Norman,412738,M,4
-Jimmy Gomez,412739,M,4
-John R. Curtis,412740,M,4
-Tina Smith,412742,F,4
-Cindy Hyde-Smith,412743,F,4
-Conor Lamb,412744,M,4
-Debbie Lesko,412745,F,4
-Michael Cloud,412746,M,4
-Troy Balderson,412747,M,4
-Kevin Hern,412748,M,4
-Joseph D. Morelle,412749,M,4
-Mary Gay Scanlon,412750,F,4
-Susan Wild,412751,F,4
-Ed Case,400069,M,4
-Steven Horsford,412559,M,4
-Ann Kirkpatrick,412286,F,4
-Greg Stanton,412753,M,4
-Josh Harder,412754,M,4
-Katie Porter,412758,F,4
-Mike Levin,412760,M,4
-Joe Neguse,412761,M,4
-Jason Crow,412762,M,4
-Jahana Hayes,412763,F,4
-Michael Waltz,412764,M,4
-W. Gregory Steube,412766,M,4
-Lucy McBath,412769,F,4
-Michael F. Q. San Nicolas,412770,M,4
-Cynthia Axne,412772,F,4
-Russ Fulcher,412773,M,4
-Jesús G. Chuy García,412774,M,4
-Sean Casten,412775,M,4
-Lauren Underwood,412776,F,4
-James R. Baird,412777,M,4
-Greg Pence,412778,M,4
-Sharice Davids,412780,F,4
-Lori Trahan,412781,F,4
-Ayanna Pressley,412782,F,4
-David J. Trone,412783,M,4
-Elissa Slotkin,412784,F,4
-Andy Levin,412785,M,4
-Haley M. Stevens,412786,F,4
-Rashida Tlaib,412787,F,4
-Jim Hagedorn,412788,M,4
-Angie Craig,412789,F,4
-Dean Phillips,412790,M,4
-Ilhan Omar,412791,F,4
-Pete Stauber,412792,M,4
-Michael Guest,412793,M,4
-Kelly Armstrong,412794,M,4
-Chris Pappas,412795,M,4
-Jefferson Van Drew,412796,M,4
-Andy Kim,412797,M,4
-Tom Malinowski,412798,M,4
-Mikie Sherrill,412799,F,4
-Debra A. Haaland,412800,F,4
-Susie Lee,412802,F,4
-Alexandria Ocasio-Cortez,412804,F,4
-Antonio Delgado,412805,M,4
-Anthony Gonzalez,412807,M,4
-Madeleine Dean,412809,F,4
-Chrissy Houlahan,412810,F,4
-Daniel Meuser,412811,M,4
-John Joyce,412812,M,4
-Guy Reschenthaler,412813,M,4
-William R. Timmons IV,412815,M,4
-Dusty Johnson,412816,M,4
-Tim Burchett,412817,M,4
-John W. Rose,412818,M,4
-Mark E. Green,412819,M,4
-Dan Crenshaw,412820,M,4
-Van Taylor,412821,M,4
-Lance Gooden,412822,M,4
-Ron Wright,412823,M,4
-Lizzie Fletcher,412824,F,4
-Veronica Escobar,412825,F,4
-Chip Roy,412826,M,4
-Sylvia R. Garcia,412827,F,4
-Colin Z. Allred,412828,M,4
-Elaine G. Luria,412830,F,4
-Ben Cline,412832,M,4
-Abigail Davis Spanberger,412833,F,4
-Jennifer Wexton,412834,F,4
-Kim Schrier,412835,F,4
-Bryan Steil,412836,M,4
-Carol D. Miller,412837,F,4
-Rick Scott,412838,M,4
-Mike Braun,412839,M,4
-Josh Hawley,412840,M,4
-Mitt Romney,412841,M,4
-Jared F. Golden,412842,M,4
-Fred Keller,412843,M,4
-Dan Bishop,412844,M,4
-Gregory F. Murphy,412845,M,4
-Kelly Loeffler,456790,F,4
-Kweisi Mfume,407672,M,4
-Thomas P. Tiffany,456791,M,4
-Mike Garcia,456792,M,4
-Chris Jacobs,456793,M,4
-Mark Kelly,456794,M,4
-Cynthia M. Lummis,412294,F,4
-Darrell E. Issa,400196,M,4
-Pete Sessions,400367,M,4
-David G. Valadao,412515,M,4
-Tommy Tuberville,456796,M,4
-John W. Hickenlooper,456797,M,4
-Bill Hagerty,456798,M,4
-Jerry Lee Carl Jr.,456799,M,4
-Felix Barry Moore,456800,M,4
-Jay Phillip Obernolte,456801,M,4
-Young Oak Kim,456802,F,4
-Michelle Eunjoo Steel,456803,F,4
-Sara Jacobs,456804,F,4
-Lauren Opal Boebert,456805,F,4
-Katherine Cammack,456806,F,4
-Scott Franklin,456807,M,4
-Byron Lowell Donalds,456808,M,4
-Carlos A. Giménez,456809,M,4
-Maria Elvira Salazar,456810,M,4
-Nikema Natassha Williams,456811,F,4
-Carolyn Bourdeaux,456812,F,4
-Andrew Clyde,456813,M,4
-Marjorie Taylor Greene,456814,F,4
-Kaialiʻi Kahele,456815,M,4
-Ashley Hinson,456816,F,4
-Mariannette Jane Miller-Meeks,456817,F,4
-Randy L. Feenstra,456818,M,4
-Marie Newman,456819,F,4
-Mary Miller,456820,F,4
-Frank John Mrvan,456821,M,4
-Victoria Spartz,456822,F,4
-Tracey Robert Mann,456823,M,4
-Jacob LaTurner,456824,M,4
-Jake Daniel Auchincloss,456825,M,4
-Peter James Meijer,456826,M,4
-Lisa McClain,456827,F,4
-Michelle Louise Helene Fischbach,456828,F,4
-Cori Bush,456829,F,4
-Matthew Martin Rosendale Sr.,456830,M,4
-Deborah Koff Ross,456831,F,4
-Kathy Ellen Manning,456832,F,4
-David Madison Cawthorn,456833,M,4
-Stella Yvette Herrell,456834,F,4
-Teresa Leger Fernandez,456835,F,4
-Andrew Garbarino,456836,M,4
-Nicole Malliotakis,456837,F,4
-Ritchie John Torres,456838,M,4
-Jamaal Bowman,456839,M,4
-Mondaire Jones,456840,M,4
-Stephanie Bice,456841,F,4
-Cliff Stewart Bentz,456842,M,4
-Nancy Ruth Mace,456843,F,4
-Diana Harshbarger,456844,F,4
-Patrick Edward Fallon,456845,M,4
-August Lee Pfluger II,456846,M,4
-Ronny Lynn Jackson,456847,M,4
-Troy E. Nehls,456848,M,4
-Ernest Anthony Gonzales II,456849,M,4
-Beth Ann Van Duyne,456850,F,4
-Blake David Moore,456851,M,4
-Clarence Burgess Owens,456852,M,4
-Robert G. Good,456853,M,4
-Marilyn Strickland,456854,F,4
-Scott L. Fitzgerald,456855,M,4
+name,govtrack_id,job,gender,age,party,rank,district
+Sherrod Brown,400050,sen,M,69,Democrat,senior,OH
+Maria Cantwell,300018,sen,F,63,Democrat,junior,WA
+Benjamin L. Cardin,400064,sen,M,78,Democrat,senior,MD
+Thomas R. Carper,300019,sen,M,74,Democrat,senior,DE
+"Robert P. Casey, Jr.",412246,sen,M,61,Democrat,senior,PA
+Dianne Feinstein,300043,sen,F,88,Democrat,senior,CA
+Amy Klobuchar,412242,sen,F,61,Democrat,senior,MN
+Robert Menendez,400272,sen,M,67,Democrat,senior,NJ
+Bernard Sanders,400357,sen,M,80,Independent,junior,VT
+Debbie Stabenow,300093,sen,F,71,Democrat,senior,MI
+Jon Tester,412244,sen,M,65,Democrat,senior,MT
+Sheldon Whitehouse,412247,sen,M,66,Democrat,junior,RI
+John Barrasso,412251,sen,M,69,Republican,senior,WY
+Roger F. Wicker,400432,sen,M,70,Republican,senior,MS
+Susan M. Collins,300025,sen,F,69,Republican,senior,ME
+John Cornyn,300027,sen,M,69,Republican,senior,TX
+Richard J. Durbin,300038,sen,M,77,Democrat,senior,IL
+Lindsey Graham,300047,sen,M,66,Republican,senior,SC
+James M. Inhofe,300055,sen,M,87,Republican,senior,OK
+Mitch McConnell,300072,sen,M,79,Republican,senior,KY
+Jeff Merkley,412325,sen,M,65,Democrat,junior,OR
+Jack Reed,300081,sen,M,72,Democrat,senior,RI
+James E. Risch,412322,sen,M,78,Republican,junior,ID
+Jeanne Shaheen,412323,sen,F,74,Democrat,senior,NH
+Mark R. Warner,412321,sen,M,67,Democrat,senior,VA
+Kirsten E. Gillibrand,412223,sen,F,55,Democrat,junior,NY
+Christopher A. Coons,412390,sen,M,58,Democrat,junior,DE
+"Joe Manchin, III",412391,sen,M,74,Democrat,senior,WV
+Robert B. Aderholt,400004,rep,M,56,Republican,,AL 4
+Tammy Baldwin,400013,sen,F,59,Democrat,junior,WI
+Karen Bass,412404,rep,F,68,Democrat,,CA 37
+Michael F. Bennet,412330,sen,M,57,Democrat,senior,CO
+Gus M. Bilirakis,412250,rep,M,58,Republican,,FL 12
+"Sanford D. Bishop, Jr.",400030,rep,M,74,Democrat,,GA 2
+Marsha Blackburn,400032,sen,F,69,Republican,senior,TN
+Earl Blumenauer,400033,rep,M,73,Democrat,,OR 3
+Richard Blumenthal,412490,sen,M,75,Democrat,senior,CT
+Roy Blunt,400034,sen,M,71,Republican,senior,MO
+John Boozman,400040,sen,M,71,Republican,senior,AR
+Kevin Brady,400046,rep,M,66,Republican,,TX 8
+Mo Brooks,412395,rep,M,67,Republican,,AL 5
+Vern Buchanan,412196,rep,M,70,Republican,,FL 16
+Larry Bucshon,412427,rep,M,59,Republican,,IN 8
+Michael C. Burgess,400052,rep,M,71,Republican,,TX 26
+Richard Burr,400054,sen,M,66,Republican,senior,NC
+G. K. Butterfield,400616,rep,M,74,Democrat,,NC 1
+Ken Calvert,400057,rep,M,68,Republican,,CA 42
+Shelley Moore Capito,400061,sen,F,68,Republican,junior,WV
+André Carson,412258,rep,M,47,Democrat,,IN 7
+John R. Carter,400068,rep,M,80,Republican,,TX 31
+Bill Cassidy,412269,sen,M,64,Republican,senior,LA
+Kathy Castor,412195,rep,F,55,Democrat,,FL 14
+Steve Chabot,400071,rep,M,68,Republican,,OH 1
+Judy Chu,412379,rep,F,68,Democrat,,CA 27
+David N. Cicilline,412470,rep,M,60,Democrat,,RI 1
+Yvette D. Clarke,412221,rep,F,57,Democrat,,NY 9
+Emanuel Cleaver,400639,rep,M,77,Democrat,,MO 5
+James E. Clyburn,400075,rep,M,81,Democrat,,SC 6
+Steve Cohen,412236,rep,M,72,Democrat,,TN 9
+Tom Cole,400077,rep,M,72,Republican,,OK 4
+Gerald E. Connolly,412272,rep,M,71,Democrat,,VA 11
+Jim Cooper,400081,rep,M,67,Democrat,,TN 5
+Jim Costa,400618,rep,M,69,Democrat,,CA 16
+Joe Courtney,412193,rep,M,68,Democrat,,CT 2
+Mike Crapo,300030,sen,M,70,Republican,senior,ID
+Eric A. Rick Crawford,412400,rep,M,55,Republican,,AR 1
+Henry Cuellar,400657,rep,M,66,Democrat,,TX 28
+Danny K. Davis,400093,rep,M,80,Democrat,,IL 7
+Peter A. DeFazio,400100,rep,M,74,Democrat,,OR 4
+Diana DeGette,400101,rep,F,64,Democrat,,CO 1
+Rosa L. DeLauro,400103,rep,F,78,Democrat,,CT 3
+Scott DesJarlais,412477,rep,M,57,Republican,,TN 4
+Theodore E. Deutch,412385,rep,M,55,Democrat,,FL 22
+Mario Diaz-Balart,400108,rep,M,60,Republican,,FL 25
+Lloyd Doggett,400111,rep,M,75,Democrat,,TX 35
+Michael F. Doyle,400114,rep,M,68,Democrat,,PA 18
+Jeff Duncan,412472,rep,M,55,Republican,,SC 3
+Anna G. Eshoo,400124,rep,F,79,Democrat,,CA 18
+Charles J. Chuck Fleischmann,412476,rep,M,59,Republican,,TN 3
+Jeff Fortenberry,400640,rep,M,61,Republican,,NE 1
+Virginia Foxx,400643,rep,F,78,Republican,,NC 5
+Marcia L. Fudge,412327,rep,F,69,Democrat,,OH 11
+John Garamendi,412382,rep,M,76,Democrat,,CA 3
+Bob Gibbs,412463,rep,M,67,Republican,,OH 7
+Louie Gohmert,400651,rep,M,68,Republican,,TX 1
+Paul A. Gosar,412397,rep,M,63,Republican,,AZ 4
+Kay Granger,400157,rep,F,78,Republican,,TX 12
+Chuck Grassley,300048,sen,M,88,Republican,senior,IA
+Sam Graves,400158,rep,M,58,Republican,,MO 6
+Al Green,400653,rep,M,74,Democrat,,TX 9
+H. Morgan Griffith,412485,rep,M,63,Republican,,VA 9
+Raúl M. Grijalva,400162,rep,M,73,Democrat,,AZ 3
+Brett Guthrie,412278,rep,M,57,Republican,,KY 2
+Andy Harris,412434,rep,M,64,Republican,,MD 1
+Vicky Hartzler,412444,rep,F,61,Republican,,MO 4
+Alcee L. Hastings,400170,rep,M,85,Democrat,,FL 20
+Martin Heinrich,412281,sen,M,50,Democrat,senior,NM
+Jaime Herrera Beutler,412486,rep,F,43,Republican,,WA 3
+Brian Higgins,400641,rep,M,62,Democrat,,NY 26
+James A. Himes,412282,rep,M,55,Democrat,,CT 4
+Mazie K. Hirono,412200,sen,F,74,Democrat,junior,HI
+John Hoeven,412494,sen,M,64,Republican,senior,ND
+Steny H. Hoyer,400189,rep,M,82,Democrat,,MD 5
+Bill Huizenga,412437,rep,M,52,Republican,,MI 2
+Sheila Jackson Lee,400199,rep,F,71,Democrat,,TX 18
+Bill Johnson,412460,rep,M,67,Republican,,OH 6
+Eddie Bernice Johnson,400204,rep,F,86,Democrat,,TX 30
+"Henry C. Hank Johnson, Jr.",412199,rep,M,67,Democrat,,GA 4
+Ron Johnson,412496,sen,M,66,Republican,senior,WI
+Jim Jordan,412226,rep,M,57,Republican,,OH 4
+Marcy Kaptur,400211,rep,F,75,Democrat,,OH 9
+William R. Keating,412435,rep,M,69,Democrat,,MA 9
+Mike Kelly,412465,rep,M,73,Republican,,PA 16
+Ron Kind,400218,rep,M,58,Democrat,,WI 3
+Adam Kinzinger,412421,rep,M,43,Republican,,IL 16
+Doug Lamborn,412191,rep,M,67,Republican,,CO 5
+James R. Langevin,400230,rep,M,57,Democrat,,RI 2
+James Lankford,412464,sen,M,53,Republican,junior,OK
+Rick Larsen,400232,rep,M,56,Democrat,,WA 2
+John B. Larson,400233,rep,M,73,Democrat,,CT 1
+Robert E. Latta,412256,rep,M,65,Republican,,OH 5
+Patrick J. Leahy,300065,sen,M,81,Democrat,senior,VT
+Barbara Lee,400237,rep,F,75,Democrat,,CA 13
+Mike Lee,412495,sen,M,50,Republican,senior,UT
+Zoe Lofgren,400245,rep,F,74,Democrat,,CA 19
+Billy Long,412445,rep,M,66,Republican,,MO 7
+Frank D. Lucas,400247,rep,M,61,Republican,,OK 3
+Blaine Luetkemeyer,412292,rep,M,69,Republican,,MO 3
+Ben Ray Luján,412293,sen,M,49,Democrat,junior,NM
+Stephen F. Lynch,400249,rep,M,66,Democrat,,MA 8
+Carolyn B. Maloney,400251,rep,F,75,Democrat,,NY 12
+Edward J. Markey,400253,sen,M,75,Democrat,junior,MA
+Doris O. Matsui,400663,rep,F,77,Democrat,,CA 6
+Kevin McCarthy,412190,rep,M,56,Republican,,CA 23
+Michael T. McCaul,400654,rep,M,59,Republican,,TX 10
+Tom McClintock,412295,rep,M,65,Republican,,CA 4
+Betty McCollum,400259,rep,F,67,Democrat,,MN 4
+James P. McGovern,400263,rep,M,62,Democrat,,MA 2
+Patrick T. McHenry,400644,rep,M,46,Republican,,NC 10
+David B. McKinley,412487,rep,M,74,Republican,,WV 1
+Cathy McMorris Rodgers,400659,rep,F,52,Republican,,WA 5
+Jerry McNerney,412189,rep,M,70,Democrat,,CA 9
+Gregory W. Meeks,400271,rep,M,68,Democrat,,NY 5
+Gwen Moore,400661,rep,F,70,Democrat,,WI 4
+Jerry Moran,400284,sen,M,67,Republican,senior,KS
+Lisa Murkowski,300075,sen,F,64,Republican,senior,AK
+Christopher Murphy,412194,sen,M,48,Democrat,junior,CT
+Patty Murray,300076,sen,F,71,Democrat,senior,WA
+Jerrold Nadler,400289,rep,M,74,Democrat,,NY 10
+Grace F. Napolitano,400290,rep,F,85,Democrat,,CA 32
+Richard E. Neal,400291,rep,M,72,Democrat,,MA 1
+Eleanor Holmes Norton,400295,rep,F,84,Democrat,,DC 0
+Devin Nunes,400297,rep,M,48,Republican,,CA 22
+Steven M. Palazzo,412443,rep,M,51,Republican,,MS 4
+"Frank Pallone, Jr.",400308,rep,M,70,Democrat,,NJ 6
+"Bill Pascrell, Jr.",400309,rep,M,84,Democrat,,NJ 9
+Rand Paul,412492,sen,M,58,Republican,junior,KY
+Nancy Pelosi,400314,rep,F,81,Democrat,,CA 12
+Ed Perlmutter,412192,rep,M,68,Democrat,,CO 7
+Gary C. Peters,412305,sen,M,63,Democrat,junior,MI
+Chellie Pingree,412307,rep,F,66,Democrat,,ME 1
+Rob Portman,400325,sen,M,66,Republican,junior,OH
+Bill Posey,412309,rep,M,74,Republican,,FL 8
+David E. Price,400326,rep,M,81,Democrat,,NC 4
+Mike Quigley,412331,rep,M,63,Democrat,,IL 5
+Tom Reed,412393,rep,M,50,Republican,,NY 23
+Cedric L. Richmond,412432,rep,M,48,Democrat,,LA 2
+Harold Rogers,400340,rep,M,84,Republican,,KY 5
+Mike Rogers,400341,rep,M,63,Republican,,AL 3
+Lucille Roybal-Allard,400347,rep,F,80,Democrat,,CA 40
+Marco Rubio,412491,sen,M,50,Republican,senior,FL
+C. A. Dutch Ruppersberger,400349,rep,M,75,Democrat,,MD 2
+Bobby L. Rush,400350,rep,M,75,Democrat,,IL 1
+Tim Ryan,400352,rep,M,48,Democrat,,OH 13
+Gregorio Kilili Camacho Sablan,412312,rep,M,66,Democrat,,MP 0
+John P. Sarbanes,412212,rep,M,59,Democrat,,MD 3
+Steve Scalise,412261,rep,M,56,Republican,,LA 1
+Janice D. Schakowsky,400360,rep,F,77,Democrat,,IL 9
+Adam B. Schiff,400361,rep,M,61,Democrat,,CA 28
+Kurt Schrader,412315,rep,M,70,Democrat,,OR 5
+Charles E. Schumer,300087,sen,M,71,Democrat,senior,NY
+David Schweikert,412399,rep,M,59,Republican,,AZ 6
+Austin Scott,412417,rep,M,52,Republican,,GA 8
+David Scott,400363,rep,M,76,Democrat,,GA 13
+Robert C. Bobby Scott,400364,rep,M,74,Democrat,,VA 3
+Tim Scott,412471,sen,M,56,Republican,junior,SC
+Terri A. Sewell,412396,rep,F,56,Democrat,,AL 7
+Richard C. Shelby,300089,sen,M,87,Republican,senior,AL
+Brad Sherman,400371,rep,M,67,Democrat,,CA 30
+Michael K. Simpson,400376,rep,M,71,Republican,,ID 2
+Albio Sires,412186,rep,M,70,Democrat,,NJ 8
+Adam Smith,400379,rep,M,56,Democrat,,WA 9
+Adrian Smith,412217,rep,M,51,Republican,,NE 3
+Christopher H. Smith,400380,rep,M,68,Republican,,NJ 4
+Jackie Speier,412259,rep,F,71,Democrat,,CA 14
+Steve Stivers,412461,rep,M,56,Republican,,OH 15
+Linda T. Sánchez,400355,rep,F,52,Democrat,,CA 38
+Bennie G. Thompson,400402,rep,M,73,Democrat,,MS 2
+Mike Thompson,400403,rep,M,70,Democrat,,CA 5
+Glenn Thompson,412317,rep,M,62,Republican,,PA 15
+John Thune,400546,sen,M,60,Republican,senior,SD
+Paul Tonko,412319,rep,M,72,Democrat,,NY 20
+Patrick J. Toomey,400408,sen,M,60,Republican,junior,PA
+Michael R. Turner,400411,rep,M,61,Republican,,OH 10
+Fred Upton,400414,rep,M,68,Republican,,MI 6
+Chris Van Hollen,400415,sen,M,62,Democrat,junior,MD
+Nydia M. Velázquez,400416,rep,F,68,Democrat,,NY 7
+Tim Walberg,412213,rep,M,70,Republican,,MI 7
+Debbie Wasserman Schultz,400623,rep,F,55,Democrat,,FL 23
+Maxine Waters,400422,rep,F,83,Democrat,,CA 43
+Daniel Webster,412410,rep,M,72,Republican,,FL 11
+Peter Welch,412239,rep,M,74,Democrat,,VT 0
+Joe Wilson,400433,rep,M,74,Republican,,SC 2
+Frederica S. Wilson,412412,rep,F,79,Democrat,,FL 24
+Robert J. Wittman,412255,rep,M,62,Republican,,VA 1
+Steve Womack,412402,rep,M,64,Republican,,AR 3
+Ron Wyden,300100,sen,M,72,Democrat,senior,OR
+John A. Yarmuth,412211,rep,M,74,Democrat,,KY 3
+Don Young,400440,rep,M,88,Republican,,AK 0
+Todd Young,412428,sen,M,49,Republican,senior,IN
+Mark E. Amodei,412500,rep,M,63,Republican,,NV 2
+Suzanne Bonamici,412501,rep,F,67,Democrat,,OR 1
+Suzan K. DelBene,412505,rep,F,59,Democrat,,WA 1
+Thomas Massie,412503,rep,M,50,Republican,,KY 4
+"Donald M. Payne, Jr.",412506,rep,M,63,Democrat,,NJ 10
+Brian Schatz,412507,sen,M,49,Democrat,senior,HI
+Bill Foster,412257,rep,M,66,Democrat,,IL 11
+Dina Titus,412318,rep,F,71,Democrat,,NV 1
+Tom Cotton,412508,sen,M,44,Republican,junior,AR
+Kyrsten Sinema,412509,sen,F,45,Democrat,senior,AZ
+Doug LaMalfa,412510,rep,M,61,Republican,,CA 1
+Jared Huffman,412511,rep,M,57,Democrat,,CA 2
+Ami Bera,412512,rep,M,56,Democrat,,CA 7
+Eric Swalwell,412514,rep,M,41,Democrat,,CA 15
+Julia Brownley,412516,rep,F,69,Democrat,,CA 26
+Tony Cárdenas,412517,rep,M,58,Democrat,,CA 29
+Raul Ruiz,412519,rep,M,49,Democrat,,CA 36
+Mark Takano,412520,rep,M,61,Democrat,,CA 41
+Alan S. Lowenthal,412521,rep,M,80,Democrat,,CA 47
+Juan Vargas,412522,rep,M,60,Democrat,,CA 51
+Scott H. Peters,412523,rep,M,63,Democrat,,CA 52
+Lois Frankel,412529,rep,F,73,Democrat,,FL 21
+Tammy Duckworth,412533,sen,F,53,Democrat,junior,IL
+Rodney Davis,412536,rep,M,51,Republican,,IL 13
+Cheri Bustos,412537,rep,F,60,Democrat,,IL 17
+Jackie Walorski,412538,rep,F,58,Republican,,IN 2
+Andy Barr,412541,rep,M,48,Republican,,KY 6
+Elizabeth Warren,412542,sen,F,72,Democrat,senior,MA
+"Angus S. King, Jr.",412545,sen,M,77,Independent,junior,ME
+Daniel T. Kildee,412546,rep,M,63,Democrat,,MI 5
+Ann Wagner,412548,rep,F,59,Republican,,MO 2
+Steve Daines,412549,sen,M,59,Republican,junior,MT
+Richard Hudson,412550,rep,M,50,Republican,,NC 8
+Kevin Cramer,412555,sen,M,60,Republican,junior,ND
+Deb Fischer,412556,sen,F,70,Republican,senior,NE
+Ann M. Kuster,412557,rep,F,65,Democrat,,NH 2
+Grace Meng,412560,rep,F,46,Democrat,,NY 6
+Hakeem S. Jeffries,412561,rep,M,51,Democrat,,NY 8
+Sean Patrick Maloney,412562,rep,M,55,Democrat,,NY 18
+Brad R. Wenstrup,412564,rep,M,63,Republican,,OH 2
+Joyce Beatty,412565,rep,F,71,Democrat,,OH 3
+David P. Joyce,412566,rep,M,64,Republican,,OH 14
+Markwayne Mullin,412568,rep,M,44,Republican,,OK 2
+Scott Perry,412569,rep,M,59,Republican,,PA 10
+Matt Cartwright,412571,rep,M,60,Democrat,,PA 8
+Tom Rice,412572,rep,M,64,Republican,,SC 7
+Ted Cruz,412573,sen,M,51,Republican,junior,TX
+"Randy K. Weber, Sr.",412574,rep,M,68,Republican,,TX 14
+Joaquin Castro,412576,rep,M,47,Democrat,,TX 20
+Roger Williams,412578,rep,M,72,Republican,,TX 25
+Marc A. Veasey,412579,rep,M,50,Democrat,,TX 33
+Filemon Vela,412580,rep,M,58,Democrat,,TX 34
+Chris Stewart,412581,rep,M,61,Republican,,UT 2
+Tim Kaine,412582,sen,M,63,Democrat,junior,VA
+Derek Kilmer,412583,rep,M,47,Democrat,,WA 6
+Mark Pocan,412585,rep,M,57,Democrat,,WI 2
+Robin L. Kelly,412595,rep,F,65,Democrat,,IL 2
+Jason Smith,412596,rep,M,41,Republican,,MO 8
+Cory A. Booker,412598,sen,M,52,Democrat,junior,NJ
+Katherine M. Clark,412600,rep,F,58,Democrat,,MA 5
+Donald Norcross,412606,rep,M,63,Democrat,,NJ 1
+Alma S. Adams,412607,rep,F,75,Democrat,,NC 12
+Gary J. Palmer,412608,rep,M,67,Republican,,AL 6
+J. French Hill,412609,rep,M,65,Republican,,AR 2
+Bruce Westerman,412610,rep,M,54,Republican,,AR 4
+Ruben Gallego,412612,rep,M,42,Democrat,,AZ 7
+Mark DeSaulnier,412613,rep,M,69,Democrat,,CA 11
+Pete Aguilar,412615,rep,M,42,Democrat,,CA 31
+Ted Lieu,412616,rep,M,52,Democrat,,CA 33
+Norma J. Torres,412617,rep,F,56,Democrat,,CA 35
+Ken Buck,412619,rep,M,62,Republican,,CO 4
+Earl L. Buddy Carter,412622,rep,M,64,Republican,,GA 1
+Jody B. Hice,412623,rep,M,61,Republican,,GA 10
+Barry Loudermilk,412624,rep,M,58,Republican,,GA 11
+Rick W. Allen,412625,rep,M,70,Republican,,GA 12
+Mike Bost,412629,rep,M,61,Republican,,IL 12
+Garret Graves,412631,rep,M,49,Republican,,LA 6
+Seth Moulton,412632,rep,M,43,Democrat,,MA 6
+John R. Moolenaar,412634,rep,M,60,Republican,,MI 4
+Debbie Dingell,412637,rep,F,68,Democrat,,MI 12
+Brenda L. Lawrence,412638,rep,F,67,Democrat,,MI 14
+Tom Emmer,412639,rep,M,60,Republican,,MN 6
+David Rouzer,412641,rep,M,49,Republican,,NC 7
+Bonnie Watson Coleman,412644,rep,F,76,Democrat,,NJ 12
+Lee M. Zeldin,412646,rep,M,41,Republican,,NY 1
+Kathleen M. Rice,412647,rep,F,56,Democrat,,NY 4
+Elise M. Stefanik,412648,rep,F,37,Republican,,NY 21
+John Katko,412649,rep,M,59,Republican,,NY 24
+Brendan F. Boyle,412652,rep,M,44,Democrat,,PA 2
+Brian Babin,412655,rep,M,73,Republican,,TX 36
+"Donald S. Beyer, Jr.",412657,rep,M,71,Democrat,,VA 8
+Stacey E. Plaskett,412659,rep,F,55,Democrat,,VI 0
+Dan Newhouse,412660,rep,M,66,Republican,,WA 4
+Glenn Grothman,412661,rep,M,66,Republican,,WI 6
+Alexander X. Mooney,412662,rep,M,50,Republican,,WV 2
+Aumua Amata Coleman Radewagen,412664,rep,F,74,Republican,,AS 0
+Dan Sullivan,412665,sen,M,57,Republican,junior,AK
+Joni Ernst,412667,sen,F,51,Republican,junior,IA
+Thom Tillis,412668,sen,M,61,Republican,junior,NC
+Mike Rounds,412669,sen,M,67,Republican,junior,SD
+Ben Sasse,412671,sen,M,49,Republican,junior,NE
+Trent Kelly,412673,rep,M,55,Republican,,MS 1
+Darin LaHood,412674,rep,M,53,Republican,,IL 18
+Warren Davidson,412675,rep,M,51,Republican,,OH 8
+James Comer,412676,rep,M,49,Republican,,KY 1
+Dwight Evans,412677,rep,M,67,Democrat,,PA 3
+Kamala D. Harris,412678,sen,F,57,Democrat,junior,CA
+John Kennedy,412679,sen,M,70,Republican,junior,LA
+Margaret Wood Hassan,412680,sen,F,63,Democrat,junior,NH
+Catherine Cortez Masto,412681,sen,F,57,Democrat,senior,NV
+Bradley Scott Schneider,412534,rep,M,60,Democrat,,IL 10
+Tom O’Halleran,412682,rep,M,75,Democrat,,AZ 1
+Andy Biggs,412683,rep,M,63,Republican,,AZ 5
+Ro Khanna,412684,rep,M,45,Democrat,,CA 17
+Jimmy Panetta,412685,rep,M,52,Democrat,,CA 20
+Salud O. Carbajal,412686,rep,M,57,Democrat,,CA 24
+Nanette Diaz Barragán,412687,rep,F,45,Democrat,,CA 44
+J. Luis Correa,412688,rep,M,63,Democrat,,CA 46
+Lisa Blunt Rochester,412689,rep,F,59,Democrat,,DE 0
+Matt Gaetz,412690,rep,M,39,Republican,,FL 1
+Neal P. Dunn,412691,rep,M,68,Republican,,FL 2
+John H. Rutherford,412692,rep,M,69,Republican,,FL 4
+"Al Lawson, Jr.",412693,rep,M,73,Democrat,,FL 5
+Stephanie N. Murphy,412694,rep,F,43,Democrat,,FL 7
+Darren Soto,412695,rep,M,43,Democrat,,FL 9
+Val Butler Demings,412696,rep,F,64,Democrat,,FL 10
+Charlie Crist,412697,rep,M,65,Democrat,,FL 13
+Brian J. Mast,412698,rep,M,41,Republican,,FL 18
+A. Drew Ferguson IV,412700,rep,M,55,Republican,,GA 3
+Raja Krishnamoorthi,412701,rep,M,48,Democrat,,IL 8
+Jim Banks,412702,rep,M,42,Republican,,IN 3
+Trey Hollingsworth,412703,rep,M,38,Republican,,IN 9
+Roger W. Marshall,412704,sen,M,61,Republican,junior,KS
+Clay Higgins,412705,rep,M,60,Republican,,LA 3
+Mike Johnson,412706,rep,M,49,Republican,,LA 4
+Anthony G. Brown,412707,rep,M,60,Democrat,,MD 4
+Jamie Raskin,412708,rep,M,59,Democrat,,MD 8
+Jack Bergman,412709,rep,M,74,Republican,,MI 1
+Ted Budd,412712,rep,M,50,Republican,,NC 13
+Don Bacon,412713,rep,M,58,Republican,,NE 2
+Josh Gottheimer,412714,rep,M,46,Democrat,,NJ 5
+Jacky Rosen,412715,sen,F,64,Democrat,junior,NV
+Thomas R. Suozzi,412717,rep,M,59,Democrat,,NY 3
+Adriano Espaillat,412718,rep,M,67,Democrat,,NY 13
+Brian K. Fitzpatrick,412721,rep,M,48,Republican,,PA 1
+Lloyd Smucker,412722,rep,M,57,Republican,,PA 11
+Jenniffer González-Colón,412723,rep,F,45,Republican,,PR 0
+David Kustoff,412724,rep,M,55,Republican,,TN 8
+Vicente Gonzalez,412725,rep,M,54,Democrat,,TX 15
+Jodey C. Arrington,412726,rep,M,49,Republican,,TX 19
+A. Donald McEachin,412728,rep,M,60,Democrat,,VA 4
+Pramila Jayapal,412730,rep,F,56,Democrat,,WA 7
+Mike Gallagher,412731,rep,M,37,Republican,,WI 8
+Liz Cheney,412732,rep,F,55,Republican,,WY 0
+Ron Estes,412735,rep,M,65,Republican,,KS 4
+Ralph Norman,412738,rep,M,68,Republican,,SC 5
+Jimmy Gomez,412739,rep,M,47,Democrat,,CA 34
+John R. Curtis,412740,rep,M,61,Republican,,UT 3
+Tina Smith,412742,sen,F,63,Democrat,junior,MN
+Cindy Hyde-Smith,412743,sen,F,62,Republican,junior,MS
+Conor Lamb,412744,rep,M,37,Democrat,,PA 17
+Debbie Lesko,412745,rep,F,63,Republican,,AZ 8
+Michael Cloud,412746,rep,M,46,Republican,,TX 27
+Troy Balderson,412747,rep,M,59,Republican,,OH 12
+Kevin Hern,412748,rep,M,60,Republican,,OK 1
+Joseph D. Morelle,412749,rep,M,64,Democrat,,NY 25
+Mary Gay Scanlon,412750,rep,F,62,Democrat,,PA 5
+Susan Wild,412751,rep,F,64,Democrat,,PA 7
+Ed Case,400069,rep,M,69,Democrat,,HI 1
+Steven Horsford,412559,rep,M,48,Democrat,,NV 4
+Ann Kirkpatrick,412286,rep,F,71,Democrat,,AZ 2
+Greg Stanton,412753,rep,M,51,Democrat,,AZ 9
+Josh Harder,412754,rep,M,35,Democrat,,CA 10
+Katie Porter,412758,rep,F,47,Democrat,,CA 45
+Mike Levin,412760,rep,M,43,Democrat,,CA 49
+Joe Neguse,412761,rep,M,37,Democrat,,CO 2
+Jason Crow,412762,rep,M,42,Democrat,,CO 6
+Jahana Hayes,412763,rep,F,48,Democrat,,CT 5
+Michael Waltz,412764,rep,M,47,Republican,,FL 6
+W. Gregory Steube,412766,rep,M,43,Republican,,FL 17
+Lucy McBath,412769,rep,F,61,Democrat,,GA 6
+Michael F. Q. San Nicolas,412770,rep,M,40,Democrat,,GU 0
+Cynthia Axne,412772,rep,F,56,Democrat,,IA 3
+Russ Fulcher,412773,rep,M,48,Republican,,ID 1
+Jesús G. Chuy García,412774,rep,M,65,Democrat,,IL 4
+Sean Casten,412775,rep,M,50,Democrat,,IL 6
+Lauren Underwood,412776,rep,F,35,Democrat,,IL 14
+James R. Baird,412777,rep,M,76,Republican,,IN 4
+Greg Pence,412778,rep,M,65,Republican,,IN 6
+Sharice Davids,412780,rep,F,41,Democrat,,KS 3
+Lori Trahan,412781,rep,F,48,Democrat,,MA 3
+Ayanna Pressley,412782,rep,F,47,Democrat,,MA 7
+David J. Trone,412783,rep,M,66,Democrat,,MD 6
+Elissa Slotkin,412784,rep,F,45,Democrat,,MI 8
+Andy Levin,412785,rep,M,61,Democrat,,MI 9
+Haley M. Stevens,412786,rep,F,38,Democrat,,MI 11
+Rashida Tlaib,412787,rep,F,45,Democrat,,MI 13
+Jim Hagedorn,412788,rep,M,59,Republican,,MN 1
+Angie Craig,412789,rep,F,49,Democrat,,MN 2
+Dean Phillips,412790,rep,M,52,Democrat,,MN 3
+Ilhan Omar,412791,rep,F,40,Democrat,,MN 5
+Pete Stauber,412792,rep,M,55,Republican,,MN 8
+Michael Guest,412793,rep,M,51,Republican,,MS 3
+Kelly Armstrong,412794,rep,M,45,Republican,,ND 0
+Chris Pappas,412795,rep,M,41,Democrat,,NH 1
+Jefferson Van Drew,412796,rep,M,68,Republican,,NJ 2
+Andy Kim,412797,rep,M,39,Democrat,,NJ 3
+Tom Malinowski,412798,rep,M,56,Democrat,,NJ 7
+Mikie Sherrill,412799,rep,F,49,Democrat,,NJ 11
+Debra A. Haaland,412800,rep,F,61,Democrat,,NM 1
+Susie Lee,412802,rep,F,55,Democrat,,NV 3
+Alexandria Ocasio-Cortez,412804,rep,F,32,Democrat,,NY 14
+Antonio Delgado,412805,rep,M,44,Democrat,,NY 19
+Anthony Gonzalez,412807,rep,M,37,Republican,,OH 16
+Madeleine Dean,412809,rep,F,62,Democrat,,PA 4
+Chrissy Houlahan,412810,rep,F,54,Democrat,,PA 6
+Daniel Meuser,412811,rep,M,57,Republican,,PA 9
+John Joyce,412812,rep,M,64,Republican,,PA 13
+Guy Reschenthaler,412813,rep,M,38,Republican,,PA 14
+William R. Timmons IV,412815,rep,M,37,Republican,,SC 4
+Dusty Johnson,412816,rep,M,45,Republican,,SD 0
+Tim Burchett,412817,rep,M,57,Republican,,TN 2
+John W. Rose,412818,rep,M,56,Republican,,TN 6
+Mark E. Green,412819,rep,M,57,Republican,,TN 7
+Dan Crenshaw,412820,rep,M,37,Republican,,TX 2
+Van Taylor,412821,rep,M,49,Republican,,TX 3
+Lance Gooden,412822,rep,M,39,Republican,,TX 5
+Ron Wright,412823,rep,M,68,Republican,,TX 6
+Lizzie Fletcher,412824,rep,F,46,Democrat,,TX 7
+Veronica Escobar,412825,rep,F,52,Democrat,,TX 16
+Chip Roy,412826,rep,M,49,Republican,,TX 21
+Sylvia R. Garcia,412827,rep,F,71,Democrat,,TX 29
+Colin Z. Allred,412828,rep,M,38,Democrat,,TX 32
+Elaine G. Luria,412830,rep,F,46,Democrat,,VA 2
+Ben Cline,412832,rep,M,49,Republican,,VA 6
+Abigail Davis Spanberger,412833,rep,F,42,Democrat,,VA 7
+Jennifer Wexton,412834,rep,F,53,Democrat,,VA 10
+Kim Schrier,412835,rep,F,53,Democrat,,WA 8
+Bryan Steil,412836,rep,M,40,Republican,,WI 1
+Carol D. Miller,412837,rep,F,71,Republican,,WV 3
+Rick Scott,412838,sen,M,69,Republican,junior,FL
+Mike Braun,412839,sen,M,67,Republican,junior,IN
+Josh Hawley,412840,sen,M,42,Republican,junior,MO
+Mitt Romney,412841,sen,M,74,Republican,junior,UT
+Jared F. Golden,412842,rep,M,39,Democrat,,ME 2
+Fred Keller,412843,rep,M,56,Republican,,PA 12
+Dan Bishop,412844,rep,M,57,Republican,,NC 9
+Gregory F. Murphy,412845,rep,M,58,Republican,,NC 3
+Kelly Loeffler,456790,sen,F,51,Republican,senior,GA
+Kweisi Mfume,407672,rep,M,73,Democrat,,MD 7
+Thomas P. Tiffany,456791,rep,M,64,Republican,,WI 7
+Mike Garcia,456792,rep,M,45,Republican,,CA 25
+Chris Jacobs,456793,rep,M,55,Republican,,NY 27
+Mark Kelly,456794,sen,M,57,Democrat,junior,AZ
+Cynthia M. Lummis,412294,sen,F,67,Republican,junior,WY
+Darrell E. Issa,400196,rep,M,68,Republican,,CA 50
+Pete Sessions,400367,rep,M,66,Republican,,TX 17
+David G. Valadao,412515,rep,M,44,Republican,,CA 21
+Tommy Tuberville,456796,sen,M,67,Republican,junior,AL
+John W. Hickenlooper,456797,sen,M,69,Democrat,junior,CO
+Bill Hagerty,456798,sen,M,62,Republican,junior,TN
+Jerry Lee Carl Jr.,456799,rep,M,63,Republican,,AL 1
+Felix Barry Moore,456800,rep,M,55,Republican,,AL 2
+Jay Phillip Obernolte,456801,rep,M,51,Republican,,CA 8
+Young Oak Kim,456802,rep,F,59,Republican,,CA 39
+Michelle Eunjoo Steel,456803,rep,F,66,Republican,,CA 48
+Sara Jacobs,456804,rep,F,32,Democrat,,CA 53
+Lauren Opal Boebert,456805,rep,F,35,Republican,,CO 3
+Katherine Cammack,456806,rep,F,33,Republican,,FL 3
+Scott Franklin,456807,rep,M,57,Republican,,FL 15
+Byron Lowell Donalds,456808,rep,M,49,Republican,,FL 19
+Carlos A. Giménez,456809,rep,M,67,Republican,,FL 26
+Maria Elvira Salazar,456810,rep,M,60,Republican,,FL 27
+Nikema Natassha Williams,456811,rep,F,43,Democrat,,GA 5
+Carolyn Bourdeaux,456812,rep,F,51,Democrat,,GA 7
+Andrew Clyde,456813,rep,M,58,Republican,,GA 9
+Marjorie Taylor Greene,456814,rep,F,47,Republican,,GA 14
+Kaialiʻi Kahele,456815,rep,M,47,Democrat,,HI 2
+Ashley Hinson,456816,rep,F,38,Republican,,IA 1
+Mariannette Jane Miller-Meeks,456817,rep,F,66,Republican,,IA 2
+Randy L. Feenstra,456818,rep,M,52,Republican,,IA 4
+Marie Newman,456819,rep,F,57,Democrat,,IL 3
+Mary Miller,456820,rep,F,62,Republican,,IL 15
+Frank John Mrvan,456821,rep,M,52,Democrat,,IN 1
+Victoria Spartz,456822,rep,F,43,Republican,,IN 5
+Tracey Robert Mann,456823,rep,M,45,Republican,,KS 1
+Jacob LaTurner,456824,rep,M,33,Republican,,KS 2
+Jake Daniel Auchincloss,456825,rep,M,33,Democrat,,MA 4
+Peter James Meijer,456826,rep,M,33,Republican,,MI 3
+Lisa McClain,456827,rep,F,55,Republican,,MI 10
+Michelle Louise Helene Fischbach,456828,rep,F,56,Republican,,MN 7
+Cori Bush,456829,rep,F,45,Democrat,,MO 1
+Matthew Martin Rosendale Sr.,456830,rep,M,61,Republican,,MT 0
+Deborah Koff Ross,456831,rep,F,58,Democrat,,NC 2
+Kathy Ellen Manning,456832,rep,F,65,Democrat,,NC 6
+David Madison Cawthorn,456833,rep,M,26,Republican,,NC 11
+Stella Yvette Herrell,456834,rep,F,57,Republican,,NM 2
+Teresa Leger Fernandez,456835,rep,F,62,Democrat,,NM 3
+Andrew Garbarino,456836,rep,M,37,Republican,,NY 2
+Nicole Malliotakis,456837,rep,F,41,Republican,,NY 11
+Ritchie John Torres,456838,rep,M,33,Democrat,,NY 15
+Jamaal Bowman,456839,rep,M,45,Democrat,,NY 16
+Mondaire Jones,456840,rep,M,34,Democrat,,NY 17
+Stephanie Bice,456841,rep,F,48,Republican,,OK 5
+Cliff Stewart Bentz,456842,rep,M,69,Republican,,OR 2
+Nancy Ruth Mace,456843,rep,F,44,Republican,,SC 1
+Diana Harshbarger,456844,rep,F,61,Republican,,TN 1
+Patrick Edward Fallon,456845,rep,M,54,Republican,,TX 4
+August Lee Pfluger II,456846,rep,M,43,Republican,,TX 11
+Ronny Lynn Jackson,456847,rep,M,54,Republican,,TX 13
+Troy E. Nehls,456848,rep,M,53,Republican,,TX 22
+Ernest Anthony Gonzales II,456849,rep,M,41,Republican,,TX 23
+Beth Ann Van Duyne,456850,rep,F,51,Republican,,TX 24
+Blake David Moore,456851,rep,M,41,Republican,,UT 1
+Clarence Burgess Owens,456852,rep,M,70,Republican,,UT 4
+Robert G. Good,456853,rep,M,56,Republican,,VA 5
+Marilyn Strickland,456854,rep,F,59,Democrat,,WA 10
+Scott L. Fitzgerald,456855,rep,M,58,Republican,,WI 5
