@@ -1,0 +1,2848 @@
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        
+		<title>Richard Durbin, Senator for Illinois - GovTrack.us</title>
+
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+		<link rel="stylesheet" href="/static/vendor/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/static/vendor/bootstrap/css/bootstrap-theme.min.css">
+
+		<link media="all" rel="stylesheet" href="/static/css/all-min.css?20201009" />
+
+		<meta name="description" content="Legislative profile for Sen. Richard Durbin [D-IL], the  Senator from Illinois" />
+		<meta name="keywords" content="Sen. Richard Durbin [D],legislation,bills,district,sponsor,cosponsor,votes,missed votes,absences,committees" />
+		 
+
+		
+		<meta property="fb:app_id" content="119329904748946" />
+		<meta property="og:site_name" content="GovTrack.us" />
+		<meta name="twitter:site" content="@GovTrack">
+		
+		<meta property="og:image" content="https://www.govtrack.us/static/images/media_icon.png?20160130" />
+		<meta name="twitter:card" content="summary">
+		
+	
+
+		
+
+		
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-GD8FT6MB9V"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'G-GD8FT6MB9V');
+		</script>
+		
+
+		<script type="text/javascript">
+		window.post_jquery_load_scripts = [];
+
+		
+		<!-- Google Analytics -->
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		<!-- End Google Analytics -->
+		
+		</script>
+
+		
+
+<style>
+.sidebar, .sidebar p {
+	line-height: 122%;
+	color: #555;
+	font-size: 12px;
+}
+@media screen and (min-width: 768px) {
+	.sidebar > div {
+		padding: 15px;
+		background-color: #F7F4EB;
+		border-radius: 15px;
+	}
+}
+.sidebar > div > div {
+	margin-bottom: 15px;
+}
+.sidebar h2 {
+	font-size: 14px;
+	margin: 0 0 .75em 0;
+	color: black;
+	font-weight: bold;
+}
+	.sidebar h2:first-child {
+		margin-top: 0;
+	}
+.sidebar a:link, .sidebar a:visited {
+    color: #9d4660;
+}
+.sidebar button {
+	display: block;
+	margin-bottom: 1em;
+	width: 145px; /* at least as large as the largest so that when the buttons break to two lines they have the same width */
+}
+	.sidebar button:last-child {
+		margin-bottom: 0;
+	}
+
+@media screen and (max-width: 768px) {
+	.sidebar button {
+		float: left;
+		margin-right: 1.5em;
+	}
+}
+   #seealso-links {
+        font-size: 95%;
+        font-family: Quicksand;
+    }
+        #seealso-links a {
+            display: inline-block;
+            text-decoration: none;
+            margin-right: 1.25em;
+            margin-bottom: .33em;
+        }
+            #seealso-links a:hover {
+                text-decoration: underline;
+            }
+        #seealso-links a i {
+            margin-right: .4em;
+        }
+</style>
+
+<style>
+	#title-info {
+		margin-bottom: 1em;
+	}
+	#title-info p {
+		margin-bottom: .25em;
+	}
+</style>
+
+	</head>
+
+<body class="member">
+    <!--[if lt IE 8]><p style="background-color: black; color: white;">Internet Explorer version 8 or any modern web browser is required to use this website, sorry.<![endif]-->
+    <!--[if gt IE 7]><!-->
+
+	<div id="bodybody">
+
+	<div id="skiptocontent"><a href="#maincontent">skip to main content</a></div>
+
+	<div class="ads leaderboard" data-zone="header" style="text-align: center;">
+	        <div class="explainer">(<a href="/advertising">About Ads</a> | <a href="/accounts/membership">Hide These Ads</a>)</div>
+	</div>
+
+	<div id="masthead">
+	<nav class="navbar">
+	  <div class="container">
+	    <div class="navbar-header">
+	      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapsable" aria-expanded="false">
+	        <span class="sr-only">Toggle navigation</span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	      </button>
+	      <a class="navbar-toggle" style="padding: 7px 8px 4px 8px; color: #557D9A;" href="/search" title="Search Site">
+	        <span class="sr-only">Search GovTrack</span>
+	        <span class="glyphicon glyphicon-search" style="font-size: 17px;"></span>
+	      </a>
+	      <a id="logo" href="/" class="navbar-brand ">govtrack.us</a>
+	    </div>
+
+	    <div class="collapse navbar-collapse" id="navbar-collapsable">
+	      <ul class="nav navbar-nav">
+	        <li><a href="/">Home</a></li>
+	        <li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bills &amp; Votes <span class="caret"></span></a>
+	          <ul class="dropdown-menu">
+				<li><a href="/congress/bills">Bills and Resolutions</a></li>
+				<li><a href="/congress/votes">Roll Call Votes</a></li>
+	            <li role="separator" class="divider"></li>
+				<li><a href="/how-a-bill-becomes-a-law">How does a bill become a law?</a></li>
+				<li><a href="/what-is-the-law">What is the law?</a></li>
+				<li><a href="/congressional-procedures">Congressional Procedures</a></li>
+			  </ul>
+			</li>
+	        <li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Legislators <span class="caret"></span></a>
+	          <ul class="dropdown-menu">
+				<li><a href="/congress/members">Members of Congress</a></li>
+				<li><a href="/congress/committees">Committees</a></li>
+	            <li role="separator" class="divider"></li>
+				<li><a href="/misconduct">Misconduct Database</a></li>
+	          </ul>
+	        </li>
+			<li class="dropwdown">
+				<a href="/how-to-use" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Using GovTrack <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="/how-to-use">How To Use GovTrack</a></li>
+					<li><a href="/for-educators">For Educators</a></li>
+					<li><a href="/for-advocates">For Advocates</a></li>
+					<li><a href="/for-hill-staff">For Congressional Staff</a></li>
+					<li><a href="/for-journalists">For Journalists</a></li>
+				</ul>
+			</li>
+			<li class="dropdown">
+				<a href="/about" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="/about">About GovTrack.us</a></li>
+					<li><a href="/about-our-data">About Our Data</a></li>
+					<li><a href="/voterama">Voterama Subscription Service
+						<div style="font-size: 75%">for Periodicals/Public Interest Organizations</div></a></li>
+					<li><a href="/press">Press Clips</a></li>
+					<li role="separator" class="divider"></li>
+					<li><a href="/start">Start Tracking</a></li>
+					<li><a href="https://govtrackinsider.com">GovTrack Insider</a></li>
+					<li><a href="/sousveillance">What is Congress Browsing?</a></li>
+					<li><a href="/reading-list">Books and Games We Recommend</a></li>
+					<li><a href="/congress/committees/game">Guess the Committee<i>!</i></a></li>
+				</ul>
+			</li>
+			<p class="navbar-text navbar-right">
+				<a id="nav-in-session-house" style="display: none" href="https://live.house.gov/" class="navbar-link" title="The House is in session.">H <span class="glyphicon glyphicon-facetime-video" style="top: 2px"></span></a>
+				<a id="nav-in-session-senate" style="display: none" href="https://www.senate.gov/legislative/floor_activity_pail.htm" class="navbar-link" title="The Senate is in session.">S <span class="glyphicon glyphicon-facetime-video" style="top: 2px"></span></a>
+			</p>
+	      </ul>
+	      <ul class="nav navbar-nav navbar-right">
+			
+
+			 
+			<li id="nav_login"><a href="/accounts/login?next=/congress/members/richard_durbin/300038">Log In</a></li>
+			
+			
+			<li id="nav_session" class="dropdown" style="display: none"> 
+	          	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Your Account <span class="caret"></span></a>
+	            <ul class="dropdown-menu">
+					<li><a href="/accounts/lists">Your Tracker Lists</a></li>
+                    <li><a href="/accounts/positions">Your Positions</a></li>
+					<li><a href="/accounts/docket">Your Docket</a></li>
+		            <li role="separator" class="divider"></li>
+					<li><a href="/accounts/profile" title="">Account Settings</a></li>
+					<li><a href="/accounts/logout?next=/congress/members/richard_durbin/300038">Log Out</a></li>
+				</ul>
+			</li>
+			
+			
+
+			<li>
+				<form name="header_search" action="/search" method="GET" class="search-form hidden-xs hidden-sm" role="search">
+					<label for="master_search_q" class="sr-only">Search GovTrack for</label>
+					<div class="text"><input type="text" placeholder="Search" id="master_search_q" name="q"/></div>
+					<input class="btn-search" type="submit" value="Search" />
+				</form>
+		      <a class="navbar-toggle visible-sm" style="padding: 6px 8px 2px 8px; color: #557D9A;" href="/search" title="Search Site">
+		        <span class="sr-only">Search GovTrack</span>
+		        <span class="glyphicon glyphicon-search" style="font-size: 14px;"></span>
+		      </a>
+		    </li>
+			<li style="padding: 10px;">
+    <div id="google_translate_element"></div><script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-1190841-1'}, 'google_translate_element');
+      $('#google_translate_element').click(function() { ga('send', 'event', 'translation', 'widget_click'); } );
+    }
+    </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			</li>
+	        <!--<li>
+	        	<a href="https://www.govtrack.us/accounts/membership" style="background-color: #F96854; margin-left: 20px;">
+	        		Support Us
+	        	</a>
+	        </li>
+	        <li>
+	        	<a href="#" onclick="$('#message_us_modal').modal(); return false;" class="nav-item-image" title="Messenger CallBot">
+	        		<img src="/static/images/facebook_messenger_code.png">
+	        	</a>
+	        </li>-->
+	      </ul>
+	    </div><!-- /.navbar-collapse -->
+	  </div><!-- /.container -->
+	</nav>
+
+	<div id="sitenewscontainer" class="navbar-default" style="display: none">
+	<div id="sitenews">
+	
+			<div class="ex"><a href="#" onclick="return hide_site_news()">X</a></div>
+			<div class="sitenewsbody" data-seq="129">
+  <a href="/voterama">
+  	GovTrack.us now offers a subscription service for local newspapers, digital publications, and other public interest organizations
+  </a>
+</div>
+<div style="clear: both"> </div>
+
+	<script>
+	function trackOutboundLink(link, category, action) { 
+		try { 
+			ga('send', 'event', category, action);
+		} catch(err){}
+		setTimeout(function() { document.location.href = link.href; }, 100);
+		return false;
+	}
+
+	function hide_site_news() {
+		$('#sitenewscontainer').fadeOut();
+		$.cookie("sitenewsbanner", $('#sitenewscontainer .sitenewsbody').attr("data-seq"), { expires: 14, path: '/' });
+	}
+
+	window.post_jquery_load_scripts.push(function() {
+		// get the first (after the X) link's href, and if it's the current page, don't show
+		// the banner.
+		var cur_link = null;
+		try {
+			cur_link = $('#sitenewscontainer a:not(:first)').first().attr("href");
+		} catch (err) { }
+			
+		if ($.cookie("sitenewsbanner") != $('#sitenewscontainer .sitenewsbody').attr("data-seq")
+			&& document.location.pathname != cur_link) {
+			$.cookie("sitenewsbanner", null, { path: '/' }); // in case it has a different value
+			$('#sitenewscontainer').fadeIn();
+			setTimeout("$('#trending_bills > a').each(function() { $(this).truncate_text() });", 10); // a little after the fade has started so the divs are shown
+		}
+	});
+	</script>
+	
+	</div> <!-- /sitenews -->
+	</div> <!-- /sitenewscontainer -->
+	</div> <!-- /masthead -->
+
+	
+	<div id="breadcrumbs">
+		<div class="container">
+			
+<ol class="breadcrumb">
+	<li><a href="/congress">Congress</a></li>
+	<li><a href="/congress/members">Members of Congress</a></li>
+	<li class="active">Richard Durbin</li>
+</ol>
+
+		</div>
+	</div>
+	
+
+	
+<div id="maincontent">
+	<div class="container">
+		
+<div class="h1-multiline">
+	<h1>
+		
+		<div style="position: relative;">
+		  <div class="party_D" style="position: absolute; top: 8px; left: -21px; width: 14px; height: 25px; border-radius: 3px;" title="Democrat">&nbsp;</div>
+		</div>
+		
+		Sen. Richard Durbin
+	</h1>
+	<p>
+		Senate Minority Whip and
+		
+		Senator for
+			Illinois
+	</p>
+	
+		<p style="font-size: 12px; color: #555; margin-top: 2px; cursor: pointer" onclick="show_pronunciation_guide()">
+			pronounced
+			RI-cherd // DER-bun
+			<span class="glyphicon glyphicon-info-sign"></span>
+		</p>
+	
+</div>
+
+<div class="action-row clearfix">
+
+		<script>function show_track_panel() { return false; } /* default impl before script loaded */</script>
+			<button class="btn btn-sm btn-success" onclick="return show_track_panel();">
+				<i class="glyphicon glyphicon-envelope"> </i>
+				<span style="margin-left: 3px;">
+					Track Him
+				</span>
+			</button>
+
+			
+			<button class="btn btn-sm btn-default" onclick="$('#contact_modal').modal();" style="background: white;">
+				<i class="glyphicon glyphicon-comment"> </i>
+				<span style="margin-left: 3px;">
+					Contact Him
+				</span>
+			</button>
+			
+	
+</div>
+
+	</div>
+</div><!-- /summary-box -->
+
+<hr style="margin: 0 0 1.5em 0">
+
+<div class="container">
+	<div class="row">
+
+		<div class="col-sm-4 col-sm-push-8 sidebar">
+		  <div>
+			
+	
+	<div>
+	<h2>Links</h2>
+	<div id="seealso-links">
+		
+			<a href="https://www.durbin.senate.gov" target="_blank"><i class="fas fa-external-link-alt" style="margin-right: 3px"></i>Durbin&#39;s Official Website</a>
+		
+			<a href="http://twitter.com/SenatorDurbin" target="_blank"><i class="fab fa-twitter" style="margin-right: 3px"></i>@SenatorDurbin</a>
+		
+			<a href="http://www.opensecrets.org/politicians/summary.php?cid=N00004981" target="_blank"><i class="fas fa-money-check" style="margin-right: 3px"></i>OpenSecrets</a>
+		
+			<a href="http://votesmart.org/candidate/26847" target="_blank"><i class="fa fa-th-list" style="margin-right: 3px"></i>VoteSmart</a>
+		
+			<a href="http://bioguide.congress.gov/scripts/biodisplay.pl?index=D000563" target="_blank"><i class="fa fa-user" style="margin-right: 3px"></i>Bioguide</a>
+		
+			<a href="http://www.c-spanvideo.org/person/6741" target="_blank"><i class="fab fa-youtube" style="margin-right: 3px"></i>C-SPAN</a>
+		
+		<div class="clearfix"></div>
+	</div>
+	</div>
+	
+
+
+			
+			<div class="ads square" data-zone="master_a">
+				<div class="explainer">(<a href="/advertising">About Ads</a> | <a href="/accounts/membership">Hide These Ads</a>)</div>
+			</div> <!-- /ads square -->
+			
+
+			<div class="hidden-xs">
+
+			
+			
+
+			
+
+			<h2>Follow GovTrack on social media for more updates:</h2>
+			<p>
+			<a href="http://twitter.com/govtrack" title="Twitter Page"><i class="fab fa-twitter fa-fw"></i><span class="sr-only">Visit us on Twitter</span></a>
+			<a href="https://www.instagram.com/govtrack.us/" title="Instagram Page"><i class="fab fa-instagram fa-fw"></i><span class="sr-only">Visit us on Instagram</span></a>
+			</p>
+
+			
+			
+		     	<h2>On GovTrack Insider:</h2>
+				
+				
+					<div class="row">
+						
+						<div class="col-xs-12">
+						
+							<div><a href="https://medium.com/govtrack-insider/legislation-would-grant-a-waiver-allowing-lloyd-austin-to-serve-as-bidens-secretary-of-defense-b8c35e63c4ca">Legislation would grant a waiver allowing Lloyd Austin to serve as Biden’s Secretary of Defense</a></div>
+							<p>Should nominees for the position get to skip the required seven-year wait after their military service ends? <span class="text-muted" style="font-size: 90%;"> Jan 9, 2021</span></p>
+							</p>
+						</div>
+					</div>
+				
+				
+				
+					<div class="row">
+						
+						<div class="col-xs-12">
+						
+							<div><a href="https://medium.com/govtrack-insider/almost-unanimous-2020-edition-why-these-lone-dissenters-opposed-measures-that-literally-every-4fabb6192c7d">Almost Unanimous, 2020 edition: Why these lone dissenters opposed measures that literally every…</a></div>
+							<p>“It takes a great deal of bravery to stand up to our enemies,” Albus Dumbledore said in Harry Potter and the Sorcerer’s Stone, “but just… <span class="text-muted" style="font-size: 90%;"> Dec 30, 2020</span></p>
+							</p>
+						</div>
+					</div>
+				
+				
+				
+					<div class="row">
+						
+						<div class="col-xs-12">
+						
+							<div><a href="https://medium.com/govtrack-insider/deb-haaland-is-joe-bidens-nominee-for-secretary-of-the-interior-how-has-she-voted-on-interior-37109a219769">Deb Haaland is Joe Biden’s nominee for Secretary of the Interior; how has she voted on Interior…</a></div>
+							<p>A member of the Laguna Pueblo tribe, Rep. Deb Haaland (D-NM1) has been nominated as the first-ever Native American Cabinet secretary. The… <span class="text-muted" style="font-size: 90%;"> Dec 28, 2020</span></p>
+							</p>
+						</div>
+					</div>
+				
+				
+				
+				
+				
+				
+				
+				
+		    
+
+			</div> <!-- /hidden-xs -->
+
+		  </div> <!-- /sidebar div-->
+		</div> <!-- /col -->
+
+		<div class="col-sm-8 col-sm-pull-4">
+			<div id="content">
+				
+<div class="row group">
+	<div id="track_panel_base" class="col-sm-8">
+		<div style="margin: .5em 0 1em 0">
+        
+        	
+        		
+        		<p>
+       			Durbin
+        		is 
+        		the senior senator from <a href="/congress/members/IL">Illinois</a>
+        		
+    			and is a Democrat.
+    			He
+        		has served since Jan 7, 1997.
+        		   
+                    
+                    
+                      
+                        Durbin is next up for reelection in 2026 and serves until Jan 3, 2027.
+                      
+                    
+                    
+        		</p>
+
+				
+				<p>He is also Senate Minority Whip, a party leadership role. Party leaders focus more on setting their party&rsquo;s legislative priorties than on introducing legislation.</p>
+				
+
+				
+
+        	
+        
+        	
+        		
+        			<p>He was previously
+        		
+
+        		the representative for <a href="/congress/members/IL">Illinois</a>’s 20<sup>th</sup> congressional district
+        		as a Democrat
+        		from 1983 to 1996.</p>
+	        
+        
+        </div>
+
+	
+
+	<!-- Kraken Caucus Labels -->
+	
+
+		
+		
+	</div><!-- /container -->
+
+	<!-- contact panel -->
+	<style>
+	#contact_modal .list-group-item input[type=radio] {
+		float: left;
+		text-align: right;
+		width: 7%;
+	}
+	#contact_modal .list-group-item > div {
+		float: left;
+		width: 93%;
+	}
+	#contact_modal .list-group-item label {
+		font-weight: normal;
+	}
+	#contact_modal .list-group-item .contact_expando {
+		display: none;
+		padding-top: .75em;
+	}
+	.list-group-item.active .list-group-item, .list-group-item.active .list-group-item .list-group-item-text {
+		text-shadow: none;
+		color: #444; /* .list-group-item.active inverts color */
+	}
+	.list-group-item.active .list-group-item.active, .list-group-item.active .list-group-item.active .list-group-item-text {
+		color: #FFE; /* now override our override to kind of put it back */
+	}
+	#contact_modal .contact_expando a {
+		color: #FFE;
+	}
+	</style>
+	<div id="contact_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="contact_modalTitle" aria-hidden="true">
+	  <div class="modal-dialog" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+	        <h2 class="modal-title" id="contact_modalTitle">Contact Sen. Richard Durbin</h2>
+	      </div>
+	      <div class="modal-body">
+			<div class="list-group">
+			  <div class="list-group-item clearfix">
+			  	<input type="radio" name="contact_constituent" id="contact_constituent_yes">
+			  	<div>
+					<h4 class="list-group-item-heading"><label for="contact_constituent_yes"><b>I am a constituent.</b></label></h4>
+					<p class="list-group-item-text"><label for="contact_constituent_yes">I live in Illinois.</label></p>
+					<div class="contact_expando">
+				      <div class="list-group">
+						   <div class="list-group-item clearfix">
+						  	<input type="radio" name="contact_constituent_why" id="contact_constituent_opinion">
+						  	<div>
+								<h4 class="list-group-item-heading"><label for="contact_constituent_opinion"><b>I have an opinion I want to share.</b></label></h4>
+								<p class="list-group-item-text"><label for="contact_constituent_opinion">I want to urge Durbin to take an action on a bill.</label></p>
+								<div class="contact_expando">
+									<p><a href="https://www.durbin.senate.gov" target="_blank" onclick="$('#contact_modal').modal('hide')" class="btn btn-lg btn-success">Visit Sen. Richard Durbin&rsquo;s website &raquo;</a></p>
+							        <p>Look for a contact form on <a href="https://www.durbin.senate.gov" target="_blank" onclick="$('#contact_modal').modal('hide')">Sen. Richard Durbin&rsquo;s website</a> to express your opinion.</p>
+								</div>
+							</div>
+						  </div>
+						  <div class="list-group-item clearfix">
+						  	<input type="radio" name="contact_constituent_why" id="contact_constituent_casework">
+						  	<div>
+								<h4 class="list-group-item-heading"><label for="contact_constituent_casework"><b>I need help, have a question, or want to schedule a tour.</b></label></h4>
+								<p class="list-group-item-text"><label for="contact_constituent_casework">I&rsquo;m having a problem with a government agency, need legal help, want to schedule a meeting or White House tour, or have another question.</label></p>
+								<div class="contact_expando">
+									<p><a href="https://www.durbin.senate.gov" target="_blank" onclick="$('#contact_modal').modal('hide')" class="btn btn-lg btn-success">Visit Durbin&rsquo;s Website &raquo;</a></p>
+
+							        <p>Head over to Sen. Richard Durbin&rsquo;s <a href="https://www.durbin.senate.gov" target="_blank" onclick="$('#contact_modal').modal('hide')">website</a>. If you are having a problem with a government agency, look for a contact link for <b>casework</b> to submit a request for help. Otherwise, look for a phone number on that website to call his office if you have a question.</p>
+								</div>
+							</div>
+						   </div>
+					  </div>
+					</div>
+				</div>
+			  </div>
+			  <div class="list-group-item clearfix">
+			  	<input type="radio" name="contact_constituent" id="contact_constituent_no">
+			  	<div>
+					<h4 class="list-group-item-heading"><label for="contact_constituent_no"><b>I am not a constituent.</b></label></h4>
+					<p class="list-group-item-text"><label for="contact_constituent_no">I live elsewhere.</label></p>
+					<div class="contact_expando">
+						<p>Not all Members of Congress will accept messages from non-constituents. You can try your luck by visiting <a href="https://www.durbin.senate.gov" target="_blank" onclick="$('#contact_modal').modal('hide')">Durbin&rsquo;s website</a>. Otherwise, try contacting your own senator:</p>
+						<p><a href="/congress/members" class="btn btn-lg btn-success">Find Your Senator &raquo;</a></p>
+					</div>
+				</div>
+			  </div>
+			  
+			</div>	      
+	        <p style="font-size: 90%; line-height: 125%;">You are currently on the website GovTrack.us, which has no affiliation with Durbin and is <b>not</b> a government website. Choose from the options above to find the right way to contact Durbin.</p>
+	      </div>
+	      
+	    </div>
+	  </div>
+	</div>
+	<!-- /contact panel -->
+
+	<div class="aside col-sm-4">
+		<div id="event_subscribe_inline_container"> </div>
+
+		
+			<div class="photo" style="margin-bottom: 10px">
+				<img src="/static/legislator-photos/300038-200px.jpeg" alt="Photo of Sen. Richard Durbin [D-IL]" class="img-responsive"/>
+			</div>
+		
+	</div><!-- /aside -->
+</div>
+
+
+<div id="member-details">
+	
+	<section id="sponsorship_analysis">
+		<h2><span>Analysis</span></h2>
+
+		
+
+		
+		<h3>Ideology&ndash;Leadership Chart</h3>
+
+		<p>
+		Durbin is shown as a purple triangle <span style="color: #df53df">▲</span> in our ideology-leadership chart below.
+		Each dot is a member of the Senate
+		positioned according to our ideology score (left to right) and our leadership score (leaders are toward the top).</p>
+		
+		<div id="sponsorship_analysis_chart"> </div>
+
+		<p style="margin-top: -7px; color: #555; font-size: 90%; line-height: 120%;">The chart is based on the bills Durbin has sponsored and cosponsored
+		from Jan 3, 2017 to Jan 6, 2021.
+		See full <a href="/about/analysis">analysis methodology</a>.</p>
+
+		
+
+		
+			<h3>Ratings from Advocacy Organizations</h3>
+			<div id="scorecards">
+				<style scoped>
+					#scorecards a {
+						display: inline-block;
+						border: 1px solid #9D2146;
+						border-radius: 4px;
+						text-decoration: none;
+						padding: 1px 3px;
+						margin: 0 .5em .5em 0;
+						color: inherit;
+					}
+						#scorecards a:hover {
+							background-color: #B46;
+							color: white;
+						}
+				</style>
+				
+					<a
+					   href="http://www.hrc.org/resources/congressional-scorecard"
+					   title="Rating is based on votes in the 114th Congress as of Jul 17, 2019.">
+						Human Rights Campaign: <b>100%</b>
+					</a>
+				
+					<a
+					   href="http://scorecard.lcv.org/"
+					   title="Rating is based on votes in the 114th Congress as of Aug 5, 2019.">
+						League of Conservation Voters: <b>100%</b>
+					</a>
+				
+					<a
+					   href="https://www.plannedparenthoodaction.org/congressional-scorecard"
+					   title="Rating is based on votes in the 116th Congress as of Aug 15, 2019.">
+						Planned Parenthood Action Fund: <b>100%</b>
+					</a>
+				
+					<a
+					   href="https://www.niacaction.org/house-scorecard-map/"
+					   title="Rating is based on votes in the 115th Congress as of Jan 22, 2018.">
+						NIAC Action: <b>A</b>
+					</a>
+				
+					<a
+					   href="https://www.aclu.org/other/legislative-scorecard-2018"
+					   title="Rating is based on votes in the 114th Congress as of Jul 20, 2019.">
+						American Civil Liberties Union: <b>82%</b>
+					</a>
+				
+					<a
+					   href="https://www.uschamber.com/how-they-voted/2018"
+					   title="Rating is based on votes in the 115th Congress as of Aug 5, 2019.">
+						United States Chamber of Commerce: <b>50%</b>
+					</a>
+				
+					<a
+					   href="https://www.numbersusa.com/content/my/tools/grades"
+					   title="Rating is votes in 115th Congress as of Jan 26, 2018.">
+						NumbersUSA: <b>18%</b>
+					</a>
+				
+					<a
+					   href="http://norml.org/congressional-scorecard"
+					   title="Rating is based on votes of 114th Congress as of Jan 24, 2018.">
+						The National Organization for the Reform of Marijuana Laws: <b>D</b>
+					</a>
+				
+					<a
+					   href="http://afpscorecard.org/"
+					   title="Rating is based on votes in the 115th Congress as of Aug 2, 2019.">
+						Americans for Prosperity: <b>12%</b>
+					</a>
+				
+					<a
+					   href="http://www.clubforgrowth.org/scorecards/"
+					   title="Rating is based on votes in the 115th Congress as of Aug 5, 2019.">
+						The Club for Growth: <b>5%</b>
+					</a>
+				
+					<a
+					   href="http://congress.freedomworks.org/"
+					   title="Rating is based on votes in the 115th Congress as of Aug 21, 2017.">
+						FreedomWorks: <b>0%</b>
+					</a>
+				
+			</div>
+		
+	</section><!-- /analysis -->
+    
+
+
+	
+
+
+	<section>
+		<h2><span>Enacted Legislation</span></h2>
+
+		<p>Durbin was the primary sponsor of 35 bills that were enacted. The most recent include:</p>
+
+		<ul style="list-style: none; padding: 0;">
+		
+			<li style="margin-bottom: .3em"><a href="/congress/bills/116/s3478">S. 3478: Commission on America’s Medical Security Act</a></li>
+		
+			<li style="margin-bottom: .3em"><a href="/congress/bills/115/s2830">S. 2830 (115th): SIREN Act of 2018</a></li>
+		
+			<li style="margin-bottom: .3em"><a href="/congress/bills/114/s3345">S. 3345 (114th): A bill to designate the facility of the United States Postal Service located at 1101 Davis Street in Evanston, Illinois, as the “Abner J. Mikva Post Office ...</a></li>
+		
+			<li style="margin-bottom: .3em"><a href="/congress/bills/114/s2891">S. 2891 (114th): A bill to designate the facility of the United States Postal Service located at 525 North Broadway in Aurora, Illinois, as the “Kenneth M. Christy Post Office ...</a></li>
+		
+			<li style="margin-bottom: .3em"><a href="/congress/bills/113/s2921">S. 2921 (113th): A bill to designate the community based outpatient clinic of the Department of Veterans Affairs located at 310 Home Boulevard in Galesburg, Illinois, as the “Lane A. ...</a></li>
+		
+			<li style="margin-bottom: .3em"><a href="/congress/bills/113/s1503">S. 1503 (113th): School Access to Emergency Epinephrine Act</a></li>
+		
+			<li style="margin-bottom: .3em"><a href="/congress/bills/113/s796">S. 796 (113th): A bill to designate the facility of the United States Postal Service located at 302 East Green Street in Champaign, Illinois, as the “James R. Burgess Jr. ...</a></li>
+		
+		</ul>
+		<p><a href="/congress/bills/browse?sponsor=300038#enacted_ex=on">View All &raquo;</a></p>
+
+		<p><i>Does 35 not sound like a lot? Very few bills are ever enacted &mdash; most legislators sponsor only a handful that are signed into law. But there are other legislative activities that we don&rsquo;t track that are also important, including offering amendments, committee work and oversight of the other branches, and constituent services.</i></p>
+
+		<p style="font-size: 85%; line-height: 128%">We consider a bill enacted if one of the following is true: a) it is enacted itself, b) it has a companion bill in the other chamber (as identified by Congress) which was enacted, or c) if at least about half of its provisions were incorporated into bills that were enacted (as determined by an automated text analysis, applicable beginning with bills in the 110<sup>th</sup> Congress).</p>
+	</section>
+
+	
+
+	<section id="sponsorship">
+		<h2><span>Bills Sponsored</span></h2>
+
+		
+			<h3>Issue Areas</h3>
+			<p>Durbin sponsors bills primarily in these issue areas:</p>
+			<p style="margin-left: 1em; line-height: 155%">
+			
+				<span style="margin-right: 2em; display: inline-block;"><a href="/congress/bills/browse?sponsor=300038&subject=6130">Health</a> (23%)</span>
+			
+				<span style="margin-right: 2em; display: inline-block;"><a href="/congress/bills/browse?sponsor=300038&subject=5991">Education</a> (19%)</span>
+			
+				<span style="margin-right: 2em; display: inline-block;"><a href="/congress/bills/browse?sponsor=300038&subject=5952">Crime and Law Enforcement</a> (16%)</span>
+			
+				<span style="margin-right: 2em; display: inline-block;"><a href="/congress/bills/browse?sponsor=300038&subject=6215">International Affairs</a> (11%)</span>
+			
+				<span style="margin-right: 2em; display: inline-block;"><a href="/congress/bills/browse?sponsor=300038&subject=5852">Armed Forces and National Security</a> (9%)</span>
+			
+				<span style="margin-right: 2em; display: inline-block;"><a href="/congress/bills/browse?sponsor=300038&subject=6342">Taxation</a> (8%)</span>
+			
+				<span style="margin-right: 2em; display: inline-block;"><a href="/congress/bills/browse?sponsor=300038&subject=6096">Government Operations and Politics</a> (8%)</span>
+			
+				<span style="margin-right: 2em; display: inline-block;"><a href="/congress/bills/browse?sponsor=300038&subject=6235">Labor and Employment</a> (6%)</span>
+			
+			</p>
+
+			<h3>Recent Bills</h3>
+		
+
+		<p>Some of Durbin’s most recently sponsored bills include...</p>
+		<ul style="list-style: none; padding: 0;">
+			
+			<li style="margin-bottom: .3em"><a href="/congress/bills/116/s4757">S. 4757 (116th): Puppy Protection Act of 2020</a></li>
+			
+			<li style="margin-bottom: .3em"><a href="/congress/bills/116/s4713">S. 4713: Coronavirus Unemployment Benefits Tax Relief Act</a></li>
+			
+			<li style="margin-bottom: .3em"><a href="/congress/bills/116/s4714">S. 4714: Worker Health Coverage Protection Act</a></li>
+			
+			<li style="margin-bottom: .3em"><a href="/congress/bills/116/s4549">S. 4549: Smarter Pretrial Detention for Drug Charges Act of 2020</a></li>
+			
+			<li style="margin-bottom: .3em"><a href="/congress/bills/116/s4538">S. 4538: RENEW Conservation Corps Act</a></li>
+			
+			<li style="margin-bottom: .3em"><a href="/congress/bills/116/s4484">S. 4484: America’s Clean Future Fund Act</a></li>
+			
+			<li style="margin-bottom: .3em"><a href="/congress/bills/116/s4450">S. 4450: Bronzeville-Black Metropolis National Heritage Area Act</a></li>
+			
+		</ul>
+		<p>
+            <a href="/congress/bills/browse?sponsor=300038">View All &raquo;</a>
+            | <a href="/congress/members/richard_durbin/300038/cosponsors">View Cosponsors &raquo;</a>
+        </p>
+
+		<p>As Senate Minority Whip, Durbin may be focused on his responsibilities other than introducing legislation, such as setting the chamber&rsquo;s agenda, uniting his party, and brokering deals.</p>
+	</section><!-- /sponsorship -->
+
+
+	
+	<section id="voting-record">
+		<h2><span>Voting Record</span></h2>
+
+		
+			<h3>Key Votes</h3>
+			<div class="row">
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/116-2020/s103" title="On the Nomination PN1430: John Leonard Badalamenti, of Florida, to be United States District Judge for the Middle District of Florida" style="text-decoration: none">On the Nomination PN1430: John Leonard Badalamenti, of Florida, to be United States District Judge for the Middle District of ...</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Nomination Confirmed 55/22 on Jun 1, 2020.</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/116-2020/s42" title="On the Nomination PN1327: Matthew Thomas Schelp, of Missouri, to be United States District Judge for the Eastern District of Missouri" style="text-decoration: none">On the Nomination PN1327: Matthew Thomas Schelp, of Missouri, to be United States District Judge for the Eastern District of ...</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Nomination Confirmed 72/23 on Feb 12, 2020.</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/116-2019/s380" title="On the Nomination PN720: Douglas Russell Cole, of Ohio, to be United States District Judge for the Southern District of Ohio" style="text-decoration: none">On the Nomination PN720: Douglas Russell Cole, of Ohio, to be United States District Judge for the Southern District of ...</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Nomination Confirmed 63/30 on Dec 4, 2019.</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/116-2019/s237" title="On the Nomination PN208: Peter D. Welte, of North Dakota, to be United States District Judge for the District of North Dakota" style="text-decoration: none">On the Nomination PN208: Peter D. Welte, of North Dakota, to be United States District Judge for the District of ...</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Nomination Confirmed 68/22 on Jul 30, 2019.</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/116-2019/s83" title="On the Nomination PN150: Gordon Hartogensis, of Connecticut, to be Director of the Pension Benefit Guaranty Corporation for a term of five years" style="text-decoration: none">On the Nomination PN150: Gordon Hartogensis, of Connecticut, to be Director of the Pension Benefit Guaranty Corporation for a term ...</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Nomination Confirmed 72/27 on Apr 30, 2019.</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/116-2019/s26" title="H.J.Res. 31: Consolidated Appropriations Act, 2019" style="text-decoration: none">H.J.Res. 31: Consolidated Appropriations Act, 2019</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Conference Report Agreed to 83/16 on Feb 14, 2019.</div>
+						
+						<hr style="margin: 5px 0; border: 1px solid #CCC;">
+						<div>This bill, in its final form, funded the parts of the federal government whose funding was to lapse on February 15, 2019. On December 22, ...</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/115-2017/s122" title="On the Nomination PN101: Heather Wilson, of South Dakota, to be Secretary of the Air Force" style="text-decoration: none">On the Nomination PN101: Heather Wilson, of South Dakota, to be Secretary of the Air Force</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Nomination Confirmed 76/22 on May 8, 2017.</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/114-2016/s151" title="H.R. 5325: Legislative Branch Appropriations Act, 2017" style="text-decoration: none">H.R. 5325: Legislative Branch Appropriations Act, 2017</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Bill Passed 72/26 on Sep 28, 2016.</div>
+						
+						<hr style="margin: 5px 0; border: 1px solid #CCC;">
+						<div>The Continuing Appropriations and Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2017, and Zika Response and Preparedness Act (H.R. 5325) is an appropriations ...</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/113-2014/s270" title="H.J.Res. 124 (113th): Continuing Appropriations Resolution, 2015" style="text-decoration: none">H.J.Res. 124 (113th): Continuing Appropriations Resolution, 2015</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Joint Resolution Passed 78/22 on Sep 18, 2014.</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_negative">
+						Durbin voted <b>Nay</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/112-2012/s229" title="H.R. 4310 (112th): National Defense Authorization Act for Fiscal Year 2013" style="text-decoration: none">H.R. 4310 (112th): National Defense Authorization Act for Fiscal Year 2013</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Conference Report Agreed to 81/14 on Dec 21, 2012.</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_negative">
+						Durbin voted <b>Nay</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/112-2011/s230" title="H.R. 1540 (112th): National Defense Authorization Act for Fiscal Year 2012" style="text-decoration: none">H.R. 1540 (112th): National Defense Authorization Act for Fiscal Year 2012</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Conference Report Agreed to 86/13 on Dec 15, 2011.</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+				<div class="col-md-6" style="padding-right: 5px">
+				<div style="height: 11em;overflow: hidden; border: 1px solid #CCC; border-radius: 10px; font-size: 90%; margin-bottom: 20px;">
+					<h4 style="margin: 0; padding: 4px 9px; border-bottom: 1px solid #CCC;" class="vote_positive">
+						Durbin voted <b>Yea</b>
+					</h4>
+					<div style="padding: 6px 9px; line-height: 110%;">
+						<div style="margin-bottom: 5px;">
+							<a href="/congress/votes/111-2010/s276" title="H.R. 4853 (111th): Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010" style="text-decoration: none">H.R. 4853 (111th): Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010</a>
+						</div>
+						<div style="font-size: 95%">
+						<div>Motion Agreed to 81/19 on Dec 15, 2010.</div>
+						
+						<hr style="margin: 5px 0; border: 1px solid #CCC;">
+						<div>The Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 (Pub.L. 111–312, H.R. 4853, 124 Stat. 3296, enacted December 17, 2010), also known ...</div>
+						
+						</div>
+					</div>
+				</div>
+				</div>
+			
+			</div>
+		
+
+		
+		<h3>Missed Votes</h3>
+		<p>From Jan 1997 to Jan 2021, Durbin missed 90 of 7,555 roll call votes, which is 1.2%.
+		This is
+		on par with
+		
+		the median of 1.6%
+		among the lifetime records of senators currently serving.
+
+		
+
+		The chart below reports missed votes over time.</p>
+
+		<p><i>
+		We don&rsquo;t track why legislators miss votes, but it&rsquo;s often due to medical absenses and major life events.
+		
+		</i></p>
+
+		<div id="voting_record_chart"> </div>
+
+		<p style="text-align: center; margin-top: .5em; font-size: 90%;"><a href="#" onclick="$('#missedvotestable').slideDown(); $(this).hide(); return false;">Show the numbers...</a></p>
+		<table id="missedvotestable" style="display: none">
+			<tr> <th>Time Period</th> <th>Votes Eligible</th> <th>Missed Votes</th> <th>Percent</th> <th>Percentile</th> </tr>
+			
+				<tr><td>1997 Jan-Mar</td> <td style="text-align: center">35</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>1997 Apr-Jun</td> <td style="text-align: center">125</td> <td style="text-align: center">1</td> <td style="text-align: center">0.8%</td> <td style="text-align: center">64<sup>th</sup></td></tr>
+			
+				<tr><td>1997 Jul-Sep</td> <td style="text-align: center">103</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>1997 Oct-Nov</td> <td style="text-align: center">35</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>1998 Jan-Mar</td> <td style="text-align: center">52</td> <td style="text-align: center">2</td> <td style="text-align: center">3.8%</td> <td style="text-align: center">64<sup>th</sup></td></tr>
+			
+				<tr><td>1998 Apr-Jun</td> <td style="text-align: center">131</td> <td style="text-align: center">2</td> <td style="text-align: center">1.5%</td> <td style="text-align: center">73<sup>rd</sup></td></tr>
+			
+				<tr><td>1998 Jul-Sep</td> <td style="text-align: center">109</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>1998 Oct-Oct</td> <td style="text-align: center">22</td> <td style="text-align: center">1</td> <td style="text-align: center">4.5%</td> <td style="text-align: center">82<sup>nd</sup></td></tr>
+			
+				<tr><td>1999 Jan-Mar</td> <td style="text-align: center">81</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>1999 Apr-Jun</td> <td style="text-align: center">111</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>1999 Jul-Sep</td> <td style="text-align: center">112</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>1999 Oct-Nov</td> <td style="text-align: center">70</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2000 Feb-Mar</td> <td style="text-align: center">51</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2000 Apr-Jun</td> <td style="text-align: center">120</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2000 Jul-Sep</td> <td style="text-align: center">89</td> <td style="text-align: center">1</td> <td style="text-align: center">1.1%</td> <td style="text-align: center">38<sup>th</sup></td></tr>
+			
+				<tr><td>2000 Oct-Dec</td> <td style="text-align: center">38</td> <td style="text-align: center">5</td> <td style="text-align: center">13.2%</td> <td style="text-align: center">69<sup>th</sup></td></tr>
+			
+				<tr><td>2001 Jan-Mar</td> <td style="text-align: center">63</td> <td style="text-align: center">1</td> <td style="text-align: center">1.6%</td> <td style="text-align: center">69<sup>th</sup></td></tr>
+			
+				<tr><td>2001 Apr-Jun</td> <td style="text-align: center">157</td> <td style="text-align: center">2</td> <td style="text-align: center">1.3%</td> <td style="text-align: center">75<sup>th</sup></td></tr>
+			
+				<tr><td>2001 Jul-Sep</td> <td style="text-align: center">68</td> <td style="text-align: center">1</td> <td style="text-align: center">1.5%</td> <td style="text-align: center">50<sup>th</sup></td></tr>
+			
+				<tr><td>2001 Oct-Dec</td> <td style="text-align: center">92</td> <td style="text-align: center">1</td> <td style="text-align: center">1.1%</td> <td style="text-align: center">56<sup>th</sup></td></tr>
+			
+				<tr><td>2002 Jan-Mar</td> <td style="text-align: center">59</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2002 Apr-Jun</td> <td style="text-align: center">107</td> <td style="text-align: center">1</td> <td style="text-align: center">0.9%</td> <td style="text-align: center">62<sup>nd</sup></td></tr>
+			
+				<tr><td>2002 Jul-Sep</td> <td style="text-align: center">61</td> <td style="text-align: center">1</td> <td style="text-align: center">1.6%</td> <td style="text-align: center">50<sup>th</sup></td></tr>
+			
+				<tr><td>2002 Oct-Nov</td> <td style="text-align: center">26</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2003 Jan-Mar</td> <td style="text-align: center">112</td> <td style="text-align: center">4</td> <td style="text-align: center">3.6%</td> <td style="text-align: center">84<sup>th</sup></td></tr>
+			
+				<tr><td>2003 Apr-Jun</td> <td style="text-align: center">150</td> <td style="text-align: center">1</td> <td style="text-align: center">0.7%</td> <td style="text-align: center">32<sup>nd</sup></td></tr>
+			
+				<tr><td>2003 Jul-Sep</td> <td style="text-align: center">108</td> <td style="text-align: center">2</td> <td style="text-align: center">1.9%</td> <td style="text-align: center">63<sup>rd</sup></td></tr>
+			
+				<tr><td>2003 Oct-Nov</td> <td style="text-align: center">89</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2004 Jan-Mar</td> <td style="text-align: center">64</td> <td style="text-align: center">1</td> <td style="text-align: center">1.6%</td> <td style="text-align: center">63<sup>rd</sup></td></tr>
+			
+				<tr><td>2004 Apr-Jun</td> <td style="text-align: center">88</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2004 Jul-Sep</td> <td style="text-align: center">42</td> <td style="text-align: center">1</td> <td style="text-align: center">2.4%</td> <td style="text-align: center">68<sup>th</sup></td></tr>
+			
+				<tr><td>2004 Oct-Dec</td> <td style="text-align: center">22</td> <td style="text-align: center">1</td> <td style="text-align: center">4.5%</td> <td style="text-align: center">74<sup>th</sup></td></tr>
+			
+				<tr><td>2005 Jan-Mar</td> <td style="text-align: center">81</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2005 Apr-Jun</td> <td style="text-align: center">89</td> <td style="text-align: center">5</td> <td style="text-align: center">5.6%</td> <td style="text-align: center">86<sup>th</sup></td></tr>
+			
+				<tr><td>2005 Jul-Sep</td> <td style="text-align: center">76</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2005 Oct-Dec</td> <td style="text-align: center">120</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2006 Jan-Mar</td> <td style="text-align: center">83</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2006 Apr-Jun</td> <td style="text-align: center">107</td> <td style="text-align: center">2</td> <td style="text-align: center">1.9%</td> <td style="text-align: center">59<sup>th</sup></td></tr>
+			
+				<tr><td>2006 Jul-Sep</td> <td style="text-align: center">73</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2006 Nov-Dec</td> <td style="text-align: center">16</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2007 Jan-Mar</td> <td style="text-align: center">126</td> <td style="text-align: center">1</td> <td style="text-align: center">0.8%</td> <td style="text-align: center">45<sup>th</sup></td></tr>
+			
+				<tr><td>2007 Apr-Jun</td> <td style="text-align: center">112</td> <td style="text-align: center">2</td> <td style="text-align: center">1.8%</td> <td style="text-align: center">73<sup>rd</sup></td></tr>
+			
+				<tr><td>2007 Jul-Sep</td> <td style="text-align: center">119</td> <td style="text-align: center">2</td> <td style="text-align: center">1.7%</td> <td style="text-align: center">53<sup>rd</sup></td></tr>
+			
+				<tr><td>2007 Oct-Dec</td> <td style="text-align: center">85</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2008 Jan-Mar</td> <td style="text-align: center">85</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2008 Apr-Jun</td> <td style="text-align: center">77</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2008 Jul-Sep</td> <td style="text-align: center">47</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2008 Oct-Dec</td> <td style="text-align: center">6</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2009 Jan-Mar</td> <td style="text-align: center">118</td> <td style="text-align: center">1</td> <td style="text-align: center">0.8%</td> <td style="text-align: center">68<sup>th</sup></td></tr>
+			
+				<tr><td>2009 Apr-Jun</td> <td style="text-align: center">96</td> <td style="text-align: center">3</td> <td style="text-align: center">3.1%</td> <td style="text-align: center">84<sup>th</sup></td></tr>
+			
+				<tr><td>2009 Jul-Sep</td> <td style="text-align: center">89</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2009 Oct-Dec</td> <td style="text-align: center">94</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2010 Jan-Mar</td> <td style="text-align: center">108</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2010 Apr-Jun</td> <td style="text-align: center">96</td> <td style="text-align: center">1</td> <td style="text-align: center">1.0%</td> <td style="text-align: center">35<sup>th</sup></td></tr>
+			
+				<tr><td>2010 Jul-Sep</td> <td style="text-align: center">44</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2010 Nov-Dec</td> <td style="text-align: center">51</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2011 Jan-Mar</td> <td style="text-align: center">46</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2011 Apr-Jun</td> <td style="text-align: center">58</td> <td style="text-align: center">2</td> <td style="text-align: center">3.4%</td> <td style="text-align: center">62<sup>nd</sup></td></tr>
+			
+				<tr><td>2011 Jul-Sep</td> <td style="text-align: center">49</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2011 Oct-Dec</td> <td style="text-align: center">82</td> <td style="text-align: center">3</td> <td style="text-align: center">3.7%</td> <td style="text-align: center">70<sup>th</sup></td></tr>
+			
+				<tr><td>2012 Jan-Mar</td> <td style="text-align: center">63</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2012 Apr-Jun</td> <td style="text-align: center">109</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2012 Jul-Sep</td> <td style="text-align: center">28</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2012 Nov-Dec</td> <td style="text-align: center">50</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2013 Jan-Jan</td> <td style="text-align: center">1</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2013 Jan-Mar</td> <td style="text-align: center">92</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2013 Apr-Jun</td> <td style="text-align: center">76</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2013 Jul-Sep</td> <td style="text-align: center">43</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2013 Oct-Dec</td> <td style="text-align: center">80</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2014 Jan-Mar</td> <td style="text-align: center">93</td> <td style="text-align: center">2</td> <td style="text-align: center">2.2%</td> <td style="text-align: center">76<sup>th</sup></td></tr>
+			
+				<tr><td>2014 Apr-Jun</td> <td style="text-align: center">123</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2014 Jul-Sep</td> <td style="text-align: center">54</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2014 Nov-Dec</td> <td style="text-align: center">96</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2015 Jan-Mar</td> <td style="text-align: center">135</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2015 Apr-Jun</td> <td style="text-align: center">85</td> <td style="text-align: center">2</td> <td style="text-align: center">2.4%</td> <td style="text-align: center">70<sup>th</sup></td></tr>
+			
+				<tr><td>2015 Jul-Sep</td> <td style="text-align: center">52</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2015 Oct-Dec</td> <td style="text-align: center">67</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2016 Jan-Mar</td> <td style="text-align: center">38</td> <td style="text-align: center">1</td> <td style="text-align: center">2.6%</td> <td style="text-align: center">49<sup>th</sup></td></tr>
+			
+				<tr><td>2016 Apr-Jun</td> <td style="text-align: center">79</td> <td style="text-align: center">7</td> <td style="text-align: center">8.9%</td> <td style="text-align: center">92<sup>nd</sup></td></tr>
+			
+				<tr><td>2016 Jul-Sep</td> <td style="text-align: center">34</td> <td style="text-align: center">1</td> <td style="text-align: center">2.9%</td> <td style="text-align: center">62<sup>nd</sup></td></tr>
+			
+				<tr><td>2016 Nov-Dec</td> <td style="text-align: center">12</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2017 Jan-Mar</td> <td style="text-align: center">101</td> <td style="text-align: center">2</td> <td style="text-align: center">2.0%</td> <td style="text-align: center">85<sup>th</sup></td></tr>
+			
+				<tr><td>2017 Apr-Jun</td> <td style="text-align: center">54</td> <td style="text-align: center">6</td> <td style="text-align: center">11.1%</td> <td style="text-align: center">99<sup>th</sup></td></tr>
+			
+				<tr><td>2017 Jul-Sep</td> <td style="text-align: center">53</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2017 Oct-Dec</td> <td style="text-align: center">117</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2018 Jan-Mar</td> <td style="text-align: center">63</td> <td style="text-align: center">3</td> <td style="text-align: center">4.8%</td> <td style="text-align: center">88<sup>th</sup></td></tr>
+			
+				<tr><td>2018 Apr-Jun</td> <td style="text-align: center">80</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2018 Jul-Sep</td> <td style="text-align: center">75</td> <td style="text-align: center">4</td> <td style="text-align: center">5.3%</td> <td style="text-align: center">78<sup>th</sup></td></tr>
+			
+				<tr><td>2018 Oct-Dec</td> <td style="text-align: center">56</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2019 Jan-Mar</td> <td style="text-align: center">54</td> <td style="text-align: center">2</td> <td style="text-align: center">3.7%</td> <td style="text-align: center">68<sup>th</sup></td></tr>
+			
+				<tr><td>2019 Apr-Jun</td> <td style="text-align: center">135</td> <td style="text-align: center">2</td> <td style="text-align: center">1.5%</td> <td style="text-align: center">58<sup>th</sup></td></tr>
+			
+				<tr><td>2019 Jul-Sep</td> <td style="text-align: center">124</td> <td style="text-align: center">2</td> <td style="text-align: center">1.6%</td> <td style="text-align: center">59<sup>th</sup></td></tr>
+			
+				<tr><td>2019 Oct-Dec</td> <td style="text-align: center">115</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2020 Jan-Mar</td> <td style="text-align: center">80</td> <td style="text-align: center">2</td> <td style="text-align: center">2.5%</td> <td style="text-align: center">66<sup>th</sup></td></tr>
+			
+				<tr><td>2020 May-Jun</td> <td style="text-align: center">48</td> <td style="text-align: center">1</td> <td style="text-align: center">2.1%</td> <td style="text-align: center">54<sup>th</sup></td></tr>
+			
+				<tr><td>2020 Jul-Sep</td> <td style="text-align: center">71</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2020 Oct-Dec</td> <td style="text-align: center">90</td> <td style="text-align: center">2</td> <td style="text-align: center">2.2%</td> <td style="text-align: center">55<sup>th</sup></td></tr>
+			
+				<tr><td>2021 Jan-Jan</td> <td style="text-align: center">2</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+				<tr><td>2021 Jan-Jan</td> <td style="text-align: center">2</td> <td style="text-align: center">0</td> <td style="text-align: center">0.0%</td> <td style="text-align: center">0<sup>th</sup></td></tr>
+			
+		</table>
+
+		<!--
+		<div class="alert alert-info">
+		See how <a href="/congress/votes/presidential-candidates">presidential campaigns affect voting records</a>.
+		</div>
+		-->
+
+		
+
+	</section><!-- /voting-record -->
+	
+	
+	
+	<section>
+	<h2><span>Primary Sources</span></h2>
+	<p>The information on this page is originally sourced from a variety of materials, including:</p>
+	<ul style="list-style: none; padding: 0;">
+	
+		<li><a href="https://github.com/unitedstates/congress-legislators">unitedstates/congress-legislators</a>, a community project gathering congressional information</li>
+		
+			<li>The <a href="http://www.house.gov">House</a> and <a href="http://www.senate.gov">Senate</a> websites, for committee membership and voting records</li>
+		
+		
+			<li><a href="http://voteview.com/dwnl.htm">United States Congressional Roll Call Voting Records, 1789-1990</a> by Howard L. Rosenthal and Keith  T.  Poole. </li>
+			<li>Martis&rsquo;s &ldquo;The Historical Atlas of Political Parties in the United States Congress&rdquo;, via Keith Poole&rsquo;s roll call votes data set, for political party affiliation for Members of Congress from 1789 through about year 2000</li>
+		
+		
+			<li><a href="http://memberguide.gpo.gov">GPO Member Guide</a> for the photo</li>
+		
+		
+			<li><a href="https://www.govinfo.gov/bulkdata/BILLSTATUS">GovInfo.gov</a>, for sponsored bills</li>
+		
+	
+	</ul>
+	</section>
+	
+</div><!-- /member-details -->
+
+<div id="pronunciation_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="pronunciationModalTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h2 class="modal-title" id="pronunciationModalTitle">Pronunciation Guide</h2>
+          </div>
+          <div class="modal-body">
+			<center>
+			<p>Richard Durbin is pronounced:</p>
+			<p style="font-size: 130%; font-weight: bold; font-family: monospace;">RI-cherd // DER-bun</p>
+			<p>The letters stand for sounds according to the following table:</p>
+			
+			<table style="margin: 1.75em 0;">
+			<tbody>
+			<tr>
+				<td style="padding-right: 1em; color: #777; font-style: italic; text-align: right;"><div>letters</div><div>as in</div></td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							R
+						</div>
+						<div>
+						 
+							<u>r</u>ag
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							I
+						</div>
+						<div>
+						 
+							p<u>i</u>n
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							-
+						</div>
+						<div>
+						
+							&nbsp;
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							ch
+						</div>
+						<div>
+						 
+							<u>ch</u>in
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							er
+						</div>
+						<div>
+						 
+							h<u>er</u>
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							d
+						</div>
+						<div>
+						 
+							<u>d</u>ay
+						
+						</div>
+					</td>
+				
+				<td style="padding-left: 1em; width: 65px;"></td>
+			</tr>
+			</tobdy>
+			</table>
+			
+			<table style="margin: 1.75em 0;">
+			<tbody>
+			<tr>
+				<td style="padding-right: 1em; color: #777; font-style: italic; text-align: right;"><div>letters</div><div>as in</div></td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							D
+						</div>
+						<div>
+						 
+							<u>d</u>ay
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							ER
+						</div>
+						<div>
+						 
+							h<u>er</u>
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							-
+						</div>
+						<div>
+						
+							&nbsp;
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							b
+						</div>
+						<div>
+						 
+							<u>b</u>at
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							u
+						</div>
+						<div>
+						 
+							c<u>u</u>p
+						
+						</div>
+					</td>
+				
+					<td style="padding: 0 .4em;">
+						<div style="font-family: monospace; font-weight: bold; text-align: center;">
+							n
+						</div>
+						<div>
+						 
+							<u>n</u>ot
+						
+						</div>
+					</td>
+				
+				<td style="padding-left: 1em; width: 65px;"></td>
+			</tr>
+			</tobdy>
+			</table>
+			
+			<p>Capital letters indicate a stressed syllable.</p>
+			</center>
+          </div>
+        </div>
+    </div>
+</div>
+
+			</div>
+		</div><!-- /col -->
+
+	</div> <!-- /row -->
+</div> <!-- /container -->
+
+
+
+	</div> <!-- /#bodybody -->
+
+		<footer id="footer">
+			<div class="container">
+			<div class="row">
+
+				<nav class="col-xs-6 col-sm-3 col-md-2">
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/start">Start Tracking</a></li>
+						<li><a href="/about">About GovTrack</a></li>
+						<li><a href="/about-our-data">About the Data</a></li>
+						<li><a href="/legal">Privacy &amp; Legal</a></li>
+						
+						<li><a href="/accounts/login">Log in</a></li>
+						
+					</ul>
+				</nav>
+
+				<section class="col-xs-6 col-sm-2 social">
+					<ul>
+						<li><a href="http://twitter.com/govtrack"><i class="fab fa-twitter fa-fw"></i><span>Twitter</span></a></li>
+						<li><a href="https://www.instagram.com/govtrack.us/"><i class="fab fa-instagram fa-fw"></i><span>Instagram</span></a></li>
+						<li><a href="https://www.patreon.com/govtrack"><i class="fas fa-dollar-sign fa-fw"></i><span>Patreon</span></a></li>
+						<li><a href="https://github.com/govtrack"><i class="fab fa-github fa-fw"></i><span>GitHub</span></a></li>
+					</ul>
+				</section>
+
+				<section class="col-xs-12 col-md-offset-1 col-sm-6">
+					<p>Launched in 2004, GovTrack helps everyone learn about and track the activities of the United States Congress. This is a project of <a href="http://www.civicimpulse.com">Civic Impulse, LLC</a>. GovTrack.us is not a government website.</p>
+
+					<p><a href="/about">About the Site</a> | <a href="/contact">Contact Us</a></p>
+					<p><a href="/voterama">Voterama Subscription Service for Periodicals and Public Interest Organizations</a></p>
+
+					<p>You are encouraged to reuse any material on this site. Hackers/journalists/researchers: See these <a href="/about-our-data">open data sources</a>.</p>
+					
+					
+				</section>
+
+			</div>
+			</div>
+		</footer>
+
+
+    <div id="error_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="errorModalTitle" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h2 class="modal-title" id="errorModalTitle">[error message]</h2>
+          </div>
+          <div class="modal-body">
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">OK</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+	<script type="text/javascript" src="/static/vendor/jquery.js"></script>
+	<script type="text/javascript" src="/static/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/static/js/jquery-utils.js?20160310"></script>
+	<script type="text/javascript" src="/static/vendor/jquery.lazy.min.js"></script>
+	
+    <script src="/static/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static/vendor/fontawesome.js"></script>
+
+	
+		<script type="text/javascript" src="/_twostream/user-head?path=/congress/members/richard_durbin/300038"> </script>
+
+
+	
+
+	<script>
+		<!-- Google Analytics page load -->
+		ga('create', 'UA\u002D1190841\u002D1');
+		ga('set', 'dimension1', the_user ? "Logged In" : "Anonymous");
+		ga('set', 'dimension2', the_segment);
+		ga('send', 'pageview');
+		gtag('set', 'user_properties', {
+		  Registered: the_user ? "Logged In" : "Anonymous",
+		  GeoSegment: the_segment
+		});
+
+		
+		<!-- Master page elements when using the user-head script  -->
+		if (the_user) {
+			$('#nav_login').hide();
+			$('#nav_session').show();
+		}
+		
+	</script>
+
+	<script src="/static/js/govtrack.js?20201202"></script>
+	
+<script>
+var win_loc_hash = window.location.hash; // may change between now and ()'s execution
+$(function() {
+	setTimeout(function() {
+		// Don't show any pop-ups after a log in that returns to
+		// a pop-up track button panel.
+		if (win_loc_hash == "#track") return;
+
+		// Read the persistent cookie for flags.
+		var flags = $.cookie("flags1");
+		flags = !flags ? {} : parse_qs(flags);
+
+		// Increment a counter.
+		flags.hits = (parseInt(flags.hits) || 0) + 1;
+
+		!function() {
+			//if (show_announcement(flags)) return;
+			//if (show_fundraise(flags)) return;
+			//if (show_usergroup(flags)) return;
+			if (show_followus(flags)) return;
+		}();
+
+		// Save flags.
+		$.cookie("flags1", form_qs(flags), { expires: 28, path: '/' });
+	}, 750)
+});
+
+function show_followus(flags) {
+	// only show this modal once
+	if (flags.follow_us == 3) return false;
+	flags.follow_us = 3;
+
+	$('#followus_modal').modal();
+
+	// add twitter async script
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+	return true;
+}
+
+function show_usergroup(flags) {
+	// only show this modal once
+	if (flags.hits <= 10) return false;
+	if (flags.usergroup) return false;
+	flags.usergroup = true;
+	$('#usergroup_modal').modal();
+	ga('send', 'event', "user group signup", "modal shown");
+	return true;
+}
+
+function show_fundraise(flags) {
+	// only show this modal once
+	if (flags.fundraise == 1) return false;
+	flags.fundraise = 1;
+	$('#fundraise_modal').modal();
+	return true;
+}
+
+function show_announcement(flags) {
+	// only show this modal once
+	if (flags.ancmt == 2) return false;
+	flags.ancmt = 2;
+	$('#run_of_site_announcement_modal').modal();
+	return true;
+}
+</script>
+
+
+<div id="followus_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="followusModalTitle" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h2 class="modal-title" id="followusModalTitle">We&rsquo;re also on social media</h2>
+      </div>
+      <div class="modal-body">
+        <p>GovTrack.us is an independent website tracking the status of legislation in the United States Congress and helping you participate in government. <b>Now we&rsquo;re on Instagram too!</b></p>
+        
+        <hr>
+
+        <p>Follow <a href="https://instagram.com/govtrack.us" style="text-decoration: none; margin: 0 3px; font-weight: bold;"><i class="fab fa-instagram"></i> @govtrack.us</a> on Instagram for new 60-second summary videos of legislation in Congress.</p>
+
+        <p>Follow <a href="https://twitter.com/govtrack" style="text-decoration: none; margin: 0 3px; font-weight: bold;"><i class="fab fa-twitter"></i> @govtrack</a> on Twitter for posts about legislative activity and other information we&rsquo;re tracking, and some commentary.</p>
+
+        <p>And please consider supporting our work by becoming a monthly backer <a href="http://patreon.com/govtrack" style="text-decoration: none; margin: 0 3px;"><i class="fab fa-patreon"></i> @govtrack</a> on Patreon or <a href="/accounts/membership" target="_blank"><i class="glyphicon glyphicon-usd"></i> leaving a tip</a>.</p>
+      </div>
+
+      <div class="modal-footer">
+      	<button type="button" class="btn btn-default" data-dismiss="modal">Continue to Site</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+#usergroup_modal label {
+	display: block;
+}
+</style>
+<script>
+$(function() {
+	function update_next_enabled() {
+		// Update disabled/enabled state of Next button.
+		$('#usergroup_modal .btn-primary').prop('disabled',
+			$('#usergroup_modal input:checked').length == 0
+			||
+			($('#usergroup_modal .step-two').is(":visible")
+			 && !/\w/.test($('#usergroup_modal .step-two input').val()))
+		)
+
+		// Show hide corresponding next paragraph.
+		var first_checked_group = $('#usergroup_modal input:checked').first().attr('id');
+		$('#usergroup_modal .step-two p[data-for]').each(function() {
+			$(this).toggle($(this).attr('data-for') == first_checked_group);
+		});
+	}
+	$('#usergroup_modal input').click(update_next_enabled);
+	$('#usergroup_modal input').keyup(update_next_enabled);
+	$('#usergroup_modal input').change(update_next_enabled);
+	$('#usergroup_modal input').click(function() {
+		ga('send', 'event', "user group signup", $(this).attr('id').substring("usergroup_modal_".length));
+	});
+	update_next_enabled();
+	$('#usergroup_modal .btn-primary').click(function() {
+		if (!$('#usergroup_modal .step-two').is(":visible")) {
+			$('#usergroup_modal .step-two').slideDown();
+			$('#usergroup_modal .step-two input').focus();
+			update_next_enabled();
+		} else if (!$('#usergroup_modal .step-three').is(":visible")) {
+			// submit!
+			$('#usergroup_modal .step-three').slideDown();
+			$('#usergroup_modal .btn-default').fadeOut();
+			$('#usergroup_modal .btn-primary').text("Close");
+
+
+			var groups = [];
+			$('#usergroup_modal input:checked').each(function() {
+				groups.push($(this).attr('id').substring("usergroup_modal_".length));
+			});
+
+			$.ajax({
+				method: "POST",
+				url: "/user-group-signup",
+				data: {
+					groups: groups.join(","),
+					email: $('#usergroup_modal .step-two input').val()
+				}
+			});
+			ga('send', 'event', "user group signup", "submit");
+		} else {
+			// close
+			$('#usergroup_modal').modal('hide');
+		}
+	});
+})
+</script>
+<div id="usergroup_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="usergroup_modal_title" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h2 class="modal-title" id="usergroup_modal_title">Join GovTrack&rsquo;s Advisory Community</h2>
+      </div>
+      <div class="modal-body">
+      	<p>We’re looking to learn more about who uses GovTrack and what features you find helpful or think could be improved. If you can, please take a few minutes to help us improve GovTrack for users like you.</p>
+      	<p>Start by telling us more about yourself:</p>
+      	<label for="usergroup_modal_professionals">
+      		<input type="checkbox" id="usergroup_modal_professionals">
+      		I&rsquo;m a lobbyist, advocate, or other professional.
+      	</label>
+      	<label for="usergroup_modal_youth">
+      		<input type="checkbox" id="usergroup_modal_youth">
+      		I&rsquo;m a young person (younger than 26 years old).
+      	</label>
+      	<label for="usergroup_modal_womenminority">
+      		<input type="checkbox" id="usergroup_modal_womenminority">
+      		I&rsquo;m a member of a minority or disadvantaged group.
+      	</label>
+      	<label for="usergroup_modal_educator">
+      		<input type="checkbox" id="usergroup_modal_educator">
+      		I&rsquo;m a teacher, librarian, or other educator.
+      	</label>
+      	<label for="usergroup_modal_other">
+      		<input type="checkbox" id="usergroup_modal_other">
+      		Other
+      	</label>
+      	<div class="step-two" style="display: none; padding: 1em 0;">
+	      	<p data-for="usergroup_modal_professionals">
+	      		We hope to make GovTrack more useful to policy professionals like you. Please sign up for our advisory group to be a part of making GovTrack a better tool for what you do.
+	      	</p>
+	      	<p data-for="usergroup_modal_youth">
+	      		Young Americans have historically been the least involved in politics, despite the huge consequences policies can have on them. By joining our advisory group, you can help us make GovTrack more useful and engaging to young voters like you.
+	      	</p>
+	      	<p data-for="usergroup_modal_womenminority">
+				Our mission is to empower every American with the tools to understand and impact Congress. We hope that with your input we can make GovTrack more accessible to minority and disadvantaged communities who we may currently struggle to reach. Please join our advisory group to let us know what more we can do.
+	      	</p>
+	      	<p data-for="usergroup_modal_educator">
+				We love educating Americans about how their government works too! Please help us make GovTrack better address the needs of educators by joining our advisory group.
+	      	</p>
+	      	<p data-for="usergroup_modal_other">
+	      		Would you like to join our advisory group to work with us on the future of GovTrack?
+	      	</p>
+	      	<p style="margin-bottom: 5px;">Email address where we can reach you:</p>
+	      	<p><input type="text" class="form-control" placeholder="your email address" value=""></p>
+      	</div>
+      	<div class="step-three" style="display: none;">
+      		<p>Thank you for joining the GovTrack Advisory Community! We&rsquo;ll be in touch.</p>
+      	</div>
+      	<div style="padding-top: .5em;">
+	      	<!--<button type="button" class="btn btn-default pull-right" data-dismiss="modal">No Thanks</button>-->
+	      	<button type="button" class="btn btn-primary">Next &raquo;</button>
+	    </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="fundraise_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="fundraise_modal_title" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h2 class="modal-title" id="fundraise_modal_title">
+    	    There’s never been a better time for civic engagement.
+    	</h2>
+      </div>
+      <div class="modal-body">
+		<p>You’ve cast your vote. Now what? Join 10 million other Americans using GovTrack to learn about and contact your representative and senators and track what Congress is doing each day.</p>
+		<p>And starting in 2019 we&rsquo;ll be tracking Congress&rsquo;s oversight investigations of the executive branch.</p>
+		<p>You’re more than a vote, so support GovTrack today with a tip of any amount:</p>
+		<div style="font-size: 115%; font-weight: bold;">
+			<p></p>
+			<p><a href="/accounts/membership">One-Time Tip</a> or <a href="https://patreon.com/govtrack">Monthly Support</a></p>
+		</div>
+		<p style="font-size: 95%; color: #555;">Or keep using GovTrack for free! Our public interest mission means we will never put our service behind a paywall.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="run_of_site_announcement_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="run_of_site_announcement_modal_title" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h2 class="modal-title" id="run_of_site_announcement_modal_title">
+    	    GovTrack.us is taking a new focus on civic education
+    	</h2>
+      </div>
+      <div class="modal-body">
+		<p><strong>Help us develop the tools to bring real-time legislative data into the classroom.</strong></p>
+
+		<p>If you’ve visited a bill page on GovTrack.us recently, you may have noticed a new “study guide” tab located just below the bill title. This is part of a new project to develop better tools for bringing real-time legislative data into the classroom. We hope to enable educators to build lesson plans centered around any bill or vote in Congress, even those as recent as yesterday.</p>
+
+		<p>We’re looking for feedback from educators about how GovTrack can be used and improved for your classroom. If you teach United States government and would like to speak with us about bringing legislative data into your classroom, please reach out!</p>
+
+		<a href="mailto:hello@govtrack.us?subject=GovTrack%20in%20my%20classroom" class="btn btn-primary">Email Us</a>
+		<button type="button" class="btn btn-default" data-dismiss="modal">Continue to site &raquo;</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+	
+	
+<script src="/static/vendor/highcharts.js"></script>
+<script src="/static/vendor/highcharts-accessibility.js"></script>
+<script>
+$(function() {
+	$('#event_subscribe_inline_container').html(the_page.events_subscribe_button);
+
+	$('#contact_modal input[type=radio]').change(function() {
+		var item = $(this).parent("div");
+		var group = item.parent("div");
+
+		// hide siblings
+		group.find('> .list-group-item > div > .contact_expando').hide();
+
+		// uncheck & hide sub items (i.e. if returning to this item later)
+		item.find('.contact_expando').hide();
+		item.find('.contact_expando input[type=radio]').attr('checked', false);
+
+		// expand this time
+		item.find('> div > .contact_expando').fadeIn();
+
+		//group.find('> .list-group-item').removeClass('active');
+		$('#contact_modal .list-group-item').removeClass('active');
+		item.addClass('active');
+	})
+
+
+	
+	var party_colors = {
+		'Democrat': 'rgba(20, 20, 255, .75)',
+		'Republican': 'rgba(255, 20, 20, .75)',
+		'Independent': 'rgba(100, 100, 100, .85)'
+	}
+	var chart = new Highcharts.Chart({
+		chart: {
+			renderTo: 'sponsorship_analysis_chart',
+			type: 'scatter',
+			zoomType: 'xy',
+			backgroundColor: 'none',
+			height: 350,
+			marginTop: 5
+		},
+		title: {
+			text: ''
+		},
+		credits: { enabled: false },
+		xAxis: {
+			title: { text: 'Ideology Score' },
+			labels: { enabled: false },
+			gridLineWidth: 1
+		},
+		yAxis: {
+			min: 0,
+			title: { text: 'Leadership Score' },
+			labels: { enabled: false }
+		},
+		tooltip: {
+			formatter: function() {
+					return this.point.name;
+			}
+		},
+		legend: {
+			layout: 'horizontal',
+			align: 'center',
+			verticalAlign: 'top'
+		},
+		plotOptions: {
+			scatter: {
+				marker: {
+					states: {
+						hover: {
+							enabled: true,
+							lineColor: 'rgb(100,100,100)'
+						}
+					}
+				},
+				states: {
+					hover: {
+						marker: {
+							enabled: false
+						}
+					}
+				}
+			}
+		},
+		series: [{
+			marker: { symbol: "triangle", radius: 7 },
+			dataLabels: { enabled: true, formatter: function() { return this.point.name; } },
+			name: 'Durbin',
+			color: 'rgba(223, 83, 223, 1)',
+			data: [{x: 0.1954255264670547, y: 	0.7521378239811599, name: "Durbin"}]
+
+		}
+		
+		
+		, {
+			marker: { symbol: "circle", radius: 3 },
+			name: 'Democrats',
+			color: party_colors['Democrat'],
+			cursor: "pointer",
+			point: { events: { click: function () { location.href = this.link; } } },
+			data: [
+				
+					{
+						x: 0.5555644043702362,
+						y: 0.6961844443410891,
+						name: "Tester\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/jon_tester/412244"
+					}
+					,
+				
+					{
+						x: 0.22249698122961148,
+						y: 0.5427252457520425,
+						name: "Whitehouse\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/sheldon_whitehouse/412247"
+					}
+					,
+				
+					{
+						x: 0.19258512552099163,
+						y: 0.7068163767938095,
+						name: "Wyden\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/ron_wyden/300100"
+					}
+					,
+				
+					{
+						x: 0.15309902348721063,
+						y: 0.7521128937760645,
+						name: "Brown\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/sherrod_brown/400050"
+					}
+					,
+				
+					{
+						x: 0.27292406864558494,
+						y: 0.9616340388786848,
+						name: "Cardin\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/benjamin_cardin/400064"
+					}
+					,
+				
+					{
+						x: 0.3103760479810638,
+						y: 0.33347065387589553,
+						name: "Heinrich\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/martin_heinrich/412281"
+					}
+					,
+				
+					{
+						x: 0.1487858775552919,
+						y: 0.5053892196245048,
+						name: "Hirono\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/mazie_hirono/412200"
+					}
+					,
+				
+					{
+						x: 0.25169584618443097,
+						y: 0.4224275501507627,
+						name: "Leahy\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/patrick_leahy/300065"
+					}
+					,
+				
+					{
+						x: 0.4812138851314535,
+						y: 0.5377508261651575,
+						name: "Peters\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/gary_peters/412305"
+					}
+					,
+				
+					{
+						x: 0.2741845837527913,
+						y: 0.6675646871361414,
+						name: "Schatz\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/brian_schatz/412507"
+					}
+					,
+				
+					{
+						x: 0.2793485182169212,
+						y: 0.46657254810217663,
+						name: "Stabenow\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/debbie_stabenow/300093"
+					}
+					,
+				
+					{
+						x: 0.2958736409699681,
+						y: 0.9984176615128609,
+						name: "Menendez\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/robert_menendez/400272"
+					}
+					,
+				
+					{
+						x: 0.1586948748267994,
+						y: 0.5985842454586527,
+						name: "Blumenthal\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/richard_blumenthal/412490"
+					}
+					,
+				
+					{
+						x: 0.148164789261095,
+						y: 0.6750273651059759,
+						name: "Booker\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/cory_booker/412598"
+					}
+					,
+				
+					{
+						x: 0.3278286823217803,
+						y: 0.41691791385515475,
+						name: "Carper\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/thomas_carper/300019"
+					}
+					,
+				
+					{
+						x: 0.44498870042837096,
+						y: 0.7414924974272121,
+						name: "Coons\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/chris_coons/412390"
+					}
+					,
+				
+					{
+						x: 0.24329360389396087,
+						y: 0.7048792216607843,
+						name: "Feinstein\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/dianne_feinstein/300043"
+					}
+					,
+				
+					{
+						x: 0.05366869164870915,
+						y: 0.5995612189944483,
+						name: "Gillibrand\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/kirsten_gillibrand/412223"
+					}
+					,
+				
+					{
+						x: 0.10351009163325907,
+						y: 0.7829393077316347,
+						name: "Markey\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/edward_markey/400253"
+					}
+					,
+				
+					{
+						x: 0.23231797375754004,
+						y: 0.4388727479220086,
+						name: "Murphy\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/christopher_murphy/412194"
+					}
+					,
+				
+					{
+						x: 0.24496594828155827,
+						y: 0.42737905917420843,
+						name: "Smith\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/tina_smith/412742"
+					}
+					,
+				
+					{
+						x: 0.1885785057276041,
+						y: 0.40686081259453205,
+						name: "Van Hollen\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/chris_van_hollen/400415"
+					}
+					,
+				
+					{
+						x: 0.23022774174738886,
+						y: 0.7350714609293216,
+						name: "Warren\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/elizabeth_warren/412542"
+					}
+					,
+				
+					{
+						x: 0.36707490168000867,
+						y: 0.6723777372255026,
+						name: "Shaheen\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/jeanne_shaheen/412323"
+					}
+					,
+				
+					{
+						x: 0.24372453806356562,
+						y: 0.7120133108683854,
+						name: "Baldwin\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/tammy_baldwin/400013"
+					}
+					,
+				
+					{
+						x: 0.34818745667667955,
+						y: 0.4309950515438772,
+						name: "Bennet\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/michael_bennet/412330"
+					}
+					,
+				
+					{
+						x: 0.32668470526001553,
+						y: 0.4535602186257311,
+						name: "Cantwell\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/maria_cantwell/300018"
+					}
+					,
+				
+					{
+						x: 0.315303961564541,
+						y: 0.6773686509179506,
+						name: "Casey\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/robert_casey/412246"
+					}
+					,
+				
+					{
+						x: 0.27030602653933106,
+						y: 0.43167799596850387,
+						name: "Cortez Masto\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/catherine_cortez_masto/412681"
+					}
+					,
+				
+					{
+						x: 0.2615653393360448,
+						y: 0.5004847421592061,
+						name: "Duckworth\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/tammy_duckworth/412533"
+					}
+					,
+				
+					{
+						x: 0.05403950705938566,
+						y: 0.5380865624887418,
+						name: "Harris\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/kamala_harris/412678"
+					}
+					,
+				
+					{
+						x: 0.3743494920551323,
+						y: 0.2994720658666038,
+						name: "Hassan\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/margaret_hassan/412680"
+					}
+					,
+				
+					{
+						x: 0.2678331171381635,
+						y: 0.5672186957349542,
+						name: "Kaine\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/timothy_kaine/412582"
+					}
+					,
+				
+					{
+						x: 0.26657158048056817,
+						y: 0.7844835131644592,
+						name: "Klobuchar\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/amy_klobuchar/412242"
+					}
+					,
+				
+					{
+						x: 0.6527323108540231,
+						y: 0.4806781697786919,
+						name: "Manchin\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/joe_manchin/412391"
+					}
+					,
+				
+					{
+						x: 0.06621355988454984,
+						y: 0.6352038970091114,
+						name: "Merkley\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/jeff_merkley/412325"
+					}
+					,
+				
+					{
+						x: 0.1922842211978219,
+						y: 0.6317033578630294,
+						name: "Murray\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/patty_murray/300076"
+					}
+					,
+				
+					{
+						x: 0.15619448684444093,
+						y: 0.47485049098722526,
+						name: "Reed\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/john_reed/300081"
+					}
+					,
+				
+					{
+						x: 0.29193987570027585,
+						y: 0.45323998145807287,
+						name: "Schumer\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/charles_schumer/300087"
+					}
+					,
+				
+					{
+						x: 0.43481831700007856,
+						y: 0.5660899472584733,
+						name: "Warner\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/mark_warner/412321"
+					}
+					,
+				
+					{
+						x: 0.37649660639060034,
+						y: 0.3497411967322154,
+						name: "Rosen\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/jacky_rosen/412715"
+					}
+					,
+				
+					{
+						x: 0.6715382338190203,
+						y: 0.2967895701263839,
+						name: "Sinema\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/kyrsten_sinema/412509"
+					}
+					
+				
+			]
+		}
+		
+		, {
+			marker: { symbol: "circle", radius: 3 },
+			name: 'Independents',
+			color: party_colors['Independent'],
+			cursor: "pointer",
+			point: { events: { click: function () { location.href = this.link; } } },
+			data: [
+				
+					{
+						x: 0.5460742692040135,
+						y: 0.23038919491334933,
+						name: "King\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/angus_king/412545"
+					}
+					,
+				
+					{
+						x: 0.0,
+						y: 0.2675647803325593,
+						name: "Sanders\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/bernard_sanders/400357"
+					}
+					
+				
+			]
+		}
+		
+		, {
+			marker: { symbol: "circle", radius: 3 },
+			name: 'Republicans',
+			color: party_colors['Republican'],
+			cursor: "pointer",
+			point: { events: { click: function () { location.href = this.link; } } },
+			data: [
+				
+					{
+						x: 1.0,
+						y: 0.5192893294527361,
+						name: "Inhofe\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/james_inhofe/300055"
+					}
+					,
+				
+					{
+						x: 0.9141172385405121,
+						y: 0.5031149519643077,
+						name: "Barrasso\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/john_barrasso/412251"
+					}
+					,
+				
+					{
+						x: 0.850862767017388,
+						y: 0.5751341370172759,
+						name: "Cassidy\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/bill_cassidy/412269"
+					}
+					,
+				
+					{
+						x: 0.942595661296688,
+						y: 1.0,
+						name: "Cornyn\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/john_cornyn/300027"
+					}
+					,
+				
+					{
+						x: 0.9867438397326428,
+						y: 0.40722411367346323,
+						name: "Cotton\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/tom_cotton/412508"
+					}
+					,
+				
+					{
+						x: 0.937492787476377,
+						y: 0.3860535581982002,
+						name: "Lankford\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/james_lankford/412464"
+					}
+					,
+				
+					{
+						x: 0.7823115915444022,
+						y: 0.5611073784982447,
+						name: "Lee\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/mike_lee/412495"
+					}
+					,
+				
+					{
+						x: 0.7362838150679331,
+						y: 0.5353979589567885,
+						name: "McConnell\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/mitch_mcconnell/300072"
+					}
+					,
+				
+					{
+						x: 0.7174769956418886,
+						y: 0.36790694441108257,
+						name: "Paul\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/rand_paul/412492"
+					}
+					,
+				
+					{
+						x: 0.9545497534825023,
+						y: 0.2632061534015743,
+						name: "Rounds\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/mike_rounds/412669"
+					}
+					,
+				
+					{
+						x: 0.7740552761801577,
+						y: 0.46424394879190983,
+						name: "Sullivan\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/dan_sullivan/412665"
+					}
+					,
+				
+					{
+						x: 0.7521422442036003,
+						y: 0.6505788400464666,
+						name: "Toomey\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/patrick_toomey/400408"
+					}
+					,
+				
+					{
+						x: 0.6095677444221564,
+						y: 0.5983983553753202,
+						name: "Murkowski\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/lisa_murkowski/300075"
+					}
+					,
+				
+					{
+						x: 0.8829562547473944,
+						y: 0.6465302007153151,
+						name: "Blunt\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/roy_blunt/400034"
+					}
+					,
+				
+					{
+						x: 0.7986740882751269,
+						y: 0.32969093772443664,
+						name: "Capito\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/shelley_capito/400061"
+					}
+					,
+				
+					{
+						x: 0.9187665663462017,
+						y: 0.5294903367698853,
+						name: "Daines\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/steve_daines/412549"
+					}
+					,
+				
+					{
+						x: 0.9031108325588603,
+						y: 0.39169137657117886,
+						name: "Kennedy\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/john_kennedy/412679"
+					}
+					,
+				
+					{
+						x: 0.8493689843781808,
+						y: 0.47420142719617514,
+						name: "Moran\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/jerry_moran/400284"
+					}
+					,
+				
+					{
+						x: 0.8924607837310067,
+						y: 0.4434333835953914,
+						name: "Risch\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/james_risch/412322"
+					}
+					,
+				
+					{
+						x: 0.8631087829471034,
+						y: 0.541658101661294,
+						name: "Scott [SC]\n<br>13 cosponsors (117th Congress)",
+						link: "/congress/members/tim_scott/412471"
+					}
+					,
+				
+					{
+						x: 0.9360891767303001,
+						y: 0.38581972653147767,
+						name: "Tillis\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/thom_tillis/412668"
+					}
+					,
+				
+					{
+						x: 0.8835469929874423,
+						y: 0.7211497357133997,
+						name: "Wicker\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/roger_wicker/400432"
+					}
+					,
+				
+					{
+						x: 0.7766905873482622,
+						y: 0.5246808238552133,
+						name: "Young\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/todd_young/412428"
+					}
+					,
+				
+					{
+						x: 0.7108524750855255,
+						y: 0.5072862299374288,
+						name: "Burr\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/richard_burr/400054"
+					}
+					,
+				
+					{
+						x: 0.5961704716779804,
+						y: 0.7983258321753274,
+						name: "Collins\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/susan_collins/300025"
+					}
+					,
+				
+					{
+						x: 0.9824605322709964,
+						y: 0.6337663032454302,
+						name: "Cruz\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/ted_cruz/412573"
+					}
+					,
+				
+					{
+						x: 0.9662030019983571,
+						y: 0.5048026427432992,
+						name: "Ernst\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/joni_ernst/412667"
+					}
+					,
+				
+					{
+						x: 0.880450401185862,
+						y: 0.32708283249411246,
+						name: "Fischer\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/deb_fischer/412556"
+					}
+					,
+				
+					{
+						x: 0.7253279147391068,
+						y: 0.79956601214137,
+						name: "Graham\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/lindsey_graham/300047"
+					}
+					,
+				
+					{
+						x: 0.7772208152211542,
+						y: 0.8875824439619598,
+						name: "Grassley\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/charles_grassley/300048"
+					}
+					,
+				
+					{
+						x: 0.8532608151631269,
+						y: 0.5033162120198107,
+						name: "Hoeven\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/john_hoeven/412494"
+					}
+					,
+				
+					{
+						x: 0.7987856711209603,
+						y: 0.5143911580774057,
+						name: "Johnson\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/ron_johnson/412496"
+					}
+					,
+				
+					{
+						x: 0.688232582632251,
+						y: 0.6871202629216764,
+						name: "Portman\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/robert_portman/400325"
+					}
+					,
+				
+					{
+						x: 0.9193753726069144,
+						y: 0.9901780957660453,
+						name: "Rubio\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/marco_rubio/412491"
+					}
+					,
+				
+					{
+						x: 0.7915225046443664,
+						y: 0.3132312683019178,
+						name: "Sasse\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/benjamin_sasse/412671"
+					}
+					,
+				
+					{
+						x: 0.8578802635523693,
+						y: 0.5767846656581888,
+						name: "Thune\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/john_thune/400546"
+					}
+					,
+				
+					{
+						x: 0.8555967922232398,
+						y: 0.5448903063650287,
+						name: "Crapo\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/michael_crapo/300030"
+					}
+					,
+				
+					{
+						x: 0.9092769568979743,
+						y: 0.4335611586559312,
+						name: "Boozman\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/john_boozman/400040"
+					}
+					,
+				
+					{
+						x: 0.8785169357117858,
+						y: 0.22341099540354897,
+						name: "Hyde\u002DSmith\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/cindy_hyde_smith/412743"
+					}
+					,
+				
+					{
+						x: 0.9456817347617749,
+						y: 0.37353717237597334,
+						name: "Blackburn\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/marsha_blackburn/400032"
+					}
+					,
+				
+					{
+						x: 0.9105979179628988,
+						y: 0.2622500150900071,
+						name: "Cramer\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/kevin_cramer/412555"
+					}
+					,
+				
+					{
+						x: 0.8475052520880954,
+						y: 0.18480231586858126,
+						name: "Scott [FL]\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/rick_scott/412838"
+					}
+					,
+				
+					{
+						x: 0.7802299857289969,
+						y: 0.23085773610000906,
+						name: "Hawley\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/joshua_hawley/412840"
+					}
+					,
+				
+					{
+						x: 0.8814629303271597,
+						y: 0.3018159451002698,
+						name: "Braun\n<br>0 cosponsors (117th Congress)",
+						link: "/congress/members/mike_braun/412839"
+					}
+					
+				
+			]
+		}
+		
+		]
+	});
+	
+
+	
+	var chart = new Highcharts.Chart({
+		chart: {
+			renderTo: 'voting_record_chart',
+			type: 'spline',
+			height: 225,
+			marginTop: 5,
+		},
+		title: { text: 'Missed Votes (%)' },
+		legend: { enabled: false },
+		credits: { enabled: false },
+		xAxis: {
+			labels: { rotation: -90, align: "right"  , step: 4 },
+			categories: ["1997 Jan\u002DMar", "1997 Apr\u002DJun", "1997 Jul\u002DSep", "1997 Oct\u002DNov", "1998 Jan\u002DMar", "1998 Apr\u002DJun", "1998 Jul\u002DSep", "1998 Oct\u002DOct", "1999 Jan\u002DMar", "1999 Apr\u002DJun", "1999 Jul\u002DSep", "1999 Oct\u002DNov", "2000 Feb\u002DMar", "2000 Apr\u002DJun", "2000 Jul\u002DSep", "2000 Oct\u002DDec", "2001 Jan\u002DMar", "2001 Apr\u002DJun", "2001 Jul\u002DSep", "2001 Oct\u002DDec", "2002 Jan\u002DMar", "2002 Apr\u002DJun", "2002 Jul\u002DSep", "2002 Oct\u002DNov", "2003 Jan\u002DMar", "2003 Apr\u002DJun", "2003 Jul\u002DSep", "2003 Oct\u002DNov", "2004 Jan\u002DMar", "2004 Apr\u002DJun", "2004 Jul\u002DSep", "2004 Oct\u002DDec", "2005 Jan\u002DMar", "2005 Apr\u002DJun", "2005 Jul\u002DSep", "2005 Oct\u002DDec", "2006 Jan\u002DMar", "2006 Apr\u002DJun", "2006 Jul\u002DSep", "2006 Nov\u002DDec", "2007 Jan\u002DMar", "2007 Apr\u002DJun", "2007 Jul\u002DSep", "2007 Oct\u002DDec", "2008 Jan\u002DMar", "2008 Apr\u002DJun", "2008 Jul\u002DSep", "2008 Oct\u002DDec", "2009 Jan\u002DMar", "2009 Apr\u002DJun", "2009 Jul\u002DSep", "2009 Oct\u002DDec", "2010 Jan\u002DMar", "2010 Apr\u002DJun", "2010 Jul\u002DSep", "2010 Nov\u002DDec", "2011 Jan\u002DMar", "2011 Apr\u002DJun", "2011 Jul\u002DSep", "2011 Oct\u002DDec", "2012 Jan\u002DMar", "2012 Apr\u002DJun", "2012 Jul\u002DSep", "2012 Nov\u002DDec", "2013 Jan\u002DJan", "2013 Jan\u002DMar", "2013 Apr\u002DJun", "2013 Jul\u002DSep", "2013 Oct\u002DDec", "2014 Jan\u002DMar", "2014 Apr\u002DJun", "2014 Jul\u002DSep", "2014 Nov\u002DDec", "2015 Jan\u002DMar", "2015 Apr\u002DJun", "2015 Jul\u002DSep", "2015 Oct\u002DDec", "2016 Jan\u002DMar", "2016 Apr\u002DJun", "2016 Jul\u002DSep", "2016 Nov\u002DDec", "2017 Jan\u002DMar", "2017 Apr\u002DJun", "2017 Jul\u002DSep", "2017 Oct\u002DDec", "2018 Jan\u002DMar", "2018 Apr\u002DJun", "2018 Jul\u002DSep", "2018 Oct\u002DDec", "2019 Jan\u002DMar", "2019 Apr\u002DJun", "2019 Jul\u002DSep", "2019 Oct\u002DDec", "2020 Jan\u002DMar", "2020 May\u002DJun", "2020 Jul\u002DSep", "2020 Oct\u002DDec", "2021 Jan\u002DJan", "2021 Jan\u002DJan" ]
+		},
+		yAxis: {
+			title: {
+				text: 'Missed Votes (%)'
+			},
+			min: 0,
+			minorGridLineWidth: 0,
+			gridLineWidth: 0,
+			alternateGridColor: null,
+			plotBands: [{
+				from: 0,
+				to: 0.7135016465422613,
+				color: 'rgba(68, 170, 213, 0.1)',
+				label: {
+					text: '25th Percentile',
+					verticalAlign: 'top',
+					style: { color: '#606060' }
+				}
+			}, {
+				from: 0.7135016465422613,
+				to: 1.6135538523598225,
+				color: 'rgba(68, 170, 213, 0.3)',
+				label: {
+					text: 'Median',
+					verticalAlign: 'top',
+					style: { color: '#606060' }
+				}
+			}, {
+				from: 1.6135538523598225,
+				to: 3.5062553648319623,
+				color: 'rgba(68, 170, 213, 0.1)',
+				label: {
+					text: '75th Percentile',
+					verticalAlign: 'top',
+					style: { color: '#606060' }
+				}
+			}, {
+				from: 3.5062553648319623,
+				to: 6.361192749512914,
+				color: 'rgba(68, 170, 213, 0.3)',
+				label: {
+					text: '90th Percentile',
+					verticalAlign: 'top',
+					style: { color: '#606060' }
+				}
+			}]
+		},
+		tooltip: {
+			formatter: function() {
+					return this.x +': '+ this.y +'% votes missed';
+			}
+		},
+		plotOptions: {
+			spline: {
+				lineWidth: 2,
+				marker: {
+					radius: 3
+				},
+				states: {
+					hover: {
+						lineWidth: 2
+					}
+				}
+			}
+		},
+		series: [{
+			name: 'Durbin - Missed Votes %',
+			data: [0.0, 0.8, 0.0, 0.0, 3.8, 1.5, 0.0, 4.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.1, 13.2, 1.6, 1.3, 1.5, 1.1, 0.0, 0.9, 1.6, 0.0, 3.6, 0.7, 1.9, 0.0, 1.6, 0.0, 2.4, 4.5, 0.0, 5.6, 0.0, 0.0, 0.0, 1.9, 0.0, 0.0, 0.8, 1.8, 1.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8, 3.1, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 3.4, 0.0, 3.7, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.2, 0.0, 0.0, 0.0, 0.0, 2.4, 0.0, 0.0, 2.6, 8.9, 2.9, 0.0, 2.0, 11.1, 0.0, 0.0, 4.8, 0.0, 5.3, 0.0, 3.7, 1.5, 1.6, 0.0, 2.5, 2.1, 0.0, 2.2, 0.0, 0.0 ]
+
+		}],
+		navigation: {
+			menuItemStyle: {
+				fontSize: '10px'
+			}
+		}
+	});
+	
+})
+
+function show_pronunciation_guide() {
+	$("#pronunciation_modal").modal();
+}
+</script>
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-NscxJMTcyb6nu"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-NscxJMTcyb6nu.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+</body>
+</html>
+
